@@ -6,6 +6,14 @@ Chemical goals and the app will calculate the necessary resources to prepare.
 The project uses the Reagant data and it's recipes data from the game to recursively
 break down target chemicals into their base components.
 
+## Example image of the app running
+
+![Example of app running with a list of reagent ingredients, intermediates, and goals](example.png)
+
+## This is the link to the live version running on Github pages:
+
+🔴 https://potatointhebox.github.io/ss14-chemist-resource-calculator/
+
 # Features
 
 - Input for Goal chemicals with realtime ingredient and intermediary breakdowns.
