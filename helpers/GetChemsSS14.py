@@ -2,7 +2,7 @@ import os
 import yaml
 import json
 import requests
-import base64
+import datetime
 
 # Configuration
 REPO_OWNER = "space-wizards"
@@ -94,5 +94,12 @@ pruned_reagents = [r for r in reagents if r["id"] in used_names or r["id"] == "U
 os.makedirs("public", exist_ok=True)
 with open(OUTPUT_REAGENTS, "w") as f: json.dump(pruned_reagents, f, indent=2)
 with open(OUTPUT_REACTIONS, "w") as f: json.dump(reactions, f, indent=2)
+
+OUTPUT_RETRIEVE = "public/retrieve.json"
+retrieval_data = {
+    "lastRetrieved": datetime.datetime.now().isoformat()
+}
+with open(OUTPUT_RETRIEVE, "w") as f: 
+    json.dump(retrieval_data, f, indent=2)
 
 print(f"Done. Saved {len(pruned_reagents)} reagents and {len(reactions)} reactions.")

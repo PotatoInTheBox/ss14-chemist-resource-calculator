@@ -9,6 +9,7 @@
  */
 
 import {
+  lastRetrieved,
   reactions as loadedReactions,
   reagents as loadedReagents,
 } from "@data/loadReactionsReagents";
@@ -162,6 +163,8 @@ export default function App() {
       </Button>
       {createPresetRow()}
       {createCardListRow()}
+      {/* sneak in a timestamp */}
+      {createRetrievalTimestamp()}
     </Container>
   );
 
@@ -336,4 +339,22 @@ export default function App() {
 // Helper to sort Map entries by key (id)
 function sortMapById<T>(map: Map<string, T>) {
   return [...map.entries()].sort(([idA], [idB]) => idA.localeCompare(idB));
+}
+
+// Quick helper to get a timestamp of when we last got the data to deal
+// with the possibility of recipe or name changes
+function createRetrievalTimestamp(): JSX.Element {
+  const formattedDate = new Date(lastRetrieved).toLocaleDateString(undefined, {
+    year: "numeric",
+    month: "long",
+    day: "numeric",
+  });
+  return (
+    <Container
+      className="text-center mt-5 mb-2"
+      style={{ opacity: 0.25, fontSize: "0.75rem" }}
+    >
+      Data retrieved from Official SS14 Prototypes on {formattedDate}
+    </Container>
+  );
 }

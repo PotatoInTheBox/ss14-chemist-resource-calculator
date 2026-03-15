@@ -8,8 +8,11 @@
 
 import reagentsJson from '@data/reagents.json'
 import reactionsJson from '@data/reactions.json'
+import retrieveJson from '@data/retrieve.json'
 import type { Reaction } from "@model/reaction";
 import type { Reagent } from "@model/reagent";
+
+export const lastRetrieved: string = retrieveJson.lastRetrieved;
 
 // Map JSON directly to typed objects on initialize
 export const reagents: Reagent[] = reagentsJson.map(r => ({
