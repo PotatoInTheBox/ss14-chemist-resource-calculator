@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 import path from 'path'
 
 export default defineConfig({
-  base: '/SS14-Chemistry-Resource-Calculator/',
+  base: '/ss14-chemistry-resource-calculator/',
   root: '.',
   plugins: [react()],
   server: {
