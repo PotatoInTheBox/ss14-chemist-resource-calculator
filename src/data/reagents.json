@@ -1,0 +1,1430 @@
+[
+  {
+    "id": "UnknownReagent",
+    "color": "#FFFFFF"
+  },
+  {
+    "id": "Absinthe",
+    "color": "#33EE00"
+  },
+  {
+    "id": "Ale",
+    "color": "#663100"
+  },
+  {
+    "id": "Beer",
+    "color": "#e3e77b"
+  },
+  {
+    "id": "BlueCuracao",
+    "color": "#0099FF"
+  },
+  {
+    "id": "Cognac",
+    "color": "#AB3C05"
+  },
+  {
+    "id": "Ethanol",
+    "color": "#b05b3c"
+  },
+  {
+    "id": "Gin",
+    "color": "#664300"
+  },
+  {
+    "id": "CoffeeLiqueur",
+    "color": "#664300"
+  },
+  {
+    "id": "MelonLiquor",
+    "color": "#00FF33"
+  },
+  {
+    "id": "Rum",
+    "color": "#f09f42"
+  },
+  {
+    "id": "Tequila",
+    "color": "#d7d1d155"
+  },
+  {
+    "id": "Vermouth",
+    "color": "#91FF91"
+  },
+  {
+    "id": "Vodka",
+    "color": "#d1d1d155"
+  },
+  {
+    "id": "Whiskey",
+    "color": "#ee7732"
+  },
+  {
+    "id": "Wine",
+    "color": "#7E4043"
+  },
+  {
+    "id": "Champagne",
+    "color": "#FCFCEE"
+  },
+  {
+    "id": "AcidSpit",
+    "color": "#365000"
+  },
+  {
+    "id": "AlienBrainHemorrhage",
+    "color": "#FFFDD0"
+  },
+  {
+    "id": "AlliesCocktail",
+    "color": "#00664d"
+  },
+  {
+    "id": "Aloe",
+    "color": "#192c00"
+  },
+  {
+    "id": "Amasec",
+    "color": "#124da7"
+  },
+  {
+    "id": "Andalusia",
+    "color": "#665700"
+  },
+  {
+    "id": "Antifreeze",
+    "color": "#ff7d63"
+  },
+  {
+    "id": "AtomicBomb",
+    "color": "#666300"
+  },
+  {
+    "id": "B52",
+    "color": "#664300"
+  },
+  {
+    "id": "BahamaMama",
+    "color": "#FF7F3B"
+  },
+  {
+    "id": "BananaHonk",
+    "color": "#ffff91"
+  },
+  {
+    "id": "Barefoot",
+    "color": "#ff66cc"
+  },
+  {
+    "id": "BeepskySmash",
+    "color": "#664300"
+  },
+  {
+    "id": "BlackRussian",
+    "color": "#360000"
+  },
+  {
+    "id": "BloodyMary",
+    "color": "#df6a50"
+  },
+  {
+    "id": "Booger",
+    "color": "#99ff00"
+  },
+  {
+    "id": "BraveBull",
+    "color": "#664300"
+  },
+  {
+    "id": "Bronx",
+    "color": "#d68829"
+  },
+  {
+    "id": "CoconutRum",
+    "color": "#cccbc8"
+  },
+  {
+    "id": "Cosmopolitan",
+    "color": "#f73030"
+  },
+  {
+    "id": "CrushDepth",
+    "color": "#0a0a33"
+  },
+  {
+    "id": "CubaLibre",
+    "color": "#3E1B00"
+  },
+  {
+    "id": "DarkandStormy",
+    "color": "#cf7f17"
+  },
+  {
+    "id": "DemonsBlood",
+    "color": "#a70000"
+  },
+  {
+    "id": "DevilsKiss",
+    "color": "#ff0033"
+  },
+  {
+    "id": "DoctorsDelight",
+    "color": "#FF8CFF"
+  },
+  {
+    "id": "DriestMartini",
+    "color": "#2E6671"
+  },
+  {
+    "id": "Eggnog",
+    "color": "#e6d6bc"
+  },
+  {
+    "id": "ElectricShark",
+    "color": "#3097cf"
+  },
+  {
+    "id": "ErikaSurprise",
+    "color": "#67bc50"
+  },
+  {
+    "id": "GargleBlaster",
+    "color": "#9cc8b4"
+  },
+  {
+    "id": "GinFizz",
+    "color": "#664300"
+  },
+  {
+    "id": "GinTonic",
+    "color": "#004166"
+  },
+  {
+    "id": "Gildlager",
+    "color": "#FFFF91"
+  },
+  {
+    "id": "Grog",
+    "color": "#e3e77b"
+  },
+  {
+    "id": "HippiesDelight",
+    "color": "#6eaa0c"
+  },
+  {
+    "id": "Hooch",
+    "color": "#664e00"
+  },
+  {
+    "id": "IcedBeer",
+    "color": "#664300"
+  },
+  {
+    "id": "IrishSlammer",
+    "color": "#2E6671"
+  },
+  {
+    "id": "IrishCream",
+    "color": "#664300"
+  },
+  {
+    "id": "IrishCoffee",
+    "color": "#664300"
+  },
+  {
+    "id": "JackRose",
+    "color": "#f53b3b"
+  },
+  {
+    "id": "JungleBird",
+    "color": "#f27c3d"
+  },
+  {
+    "id": "Kalimotxo",
+    "color": "#360606"
+  },
+  {
+    "id": "LongIslandIcedTea",
+    "color": "#664300"
+  },
+  {
+    "id": "Manhattan",
+    "color": "#664300"
+  },
+  {
+    "id": "ManhattanProject",
+    "color": "#664300"
+  },
+  {
+    "id": "ManlyDorf",
+    "color": "#664300"
+  },
+  {
+    "id": "Margarita",
+    "color": "#8CFF8C"
+  },
+  {
+    "id": "Martini",
+    "color": "#664300"
+  },
+  {
+    "id": "Mead",
+    "color": "#664300"
+  },
+  {
+    "id": "Mojito",
+    "color": "#3ea99888"
+  },
+  {
+    "id": "MonkeyBusiness",
+    "color": "#d6b929"
+  },
+  {
+    "id": "Moonshine",
+    "color": "#d1d7d155"
+  },
+  {
+    "id": "Painkiller",
+    "color": "#e6cb47"
+  },
+  {
+    "id": "Patron",
+    "color": "#585840"
+  },
+  {
+    "id": "RedMead",
+    "color": "#bc5550"
+  },
+  {
+    "id": "PinaColada",
+    "color": "#e8dba4"
+  },
+  {
+    "id": "Radler",
+    "color": "#edff2b"
+  },
+  {
+    "id": "Sbiten",
+    "color": "#004166"
+  },
+  {
+    "id": "ScrewdriverCocktail",
+    "color": "#A68310"
+  },
+  {
+    "id": "CogChamp",
+    "color": "#B5A642"
+  },
+  {
+    "id": "Silencer",
+    "color": "#878787"
+  },
+  {
+    "id": "SnowWhite",
+    "color": "#FFFFFF"
+  },
+  {
+    "id": "SuiDream",
+    "color": "#00A86B"
+  },
+  {
+    "id": "SyndicateBomb",
+    "color": "#e3e77b"
+  },
+  {
+    "id": "TequilaSunrise",
+    "color": "#FFE48C"
+  },
+  {
+    "id": "TheMartinez",
+    "color": "#75b1f0"
+  },
+  {
+    "id": "ThreeMileIsland",
+    "color": "#666340"
+  },
+  {
+    "id": "ToxinsSpecial",
+    "color": "#665c00"
+  },
+  {
+    "id": "Vampiro",
+    "color": "#b51b1b"
+  },
+  {
+    "id": "VodkaMartini",
+    "color": "#004666"
+  },
+  {
+    "id": "VodkaTonic",
+    "color": "#0064C8"
+  },
+  {
+    "id": "WhiskeyCola",
+    "color": "#3E1B00"
+  },
+  {
+    "id": "WhiskeySoda",
+    "color": "#533600"
+  },
+  {
+    "id": "WhiteGilgamesh",
+    "color": "#e5d27e"
+  },
+  {
+    "id": "WhiteRussian",
+    "color": "#A68340"
+  },
+  {
+    "id": "VodkaRedBool",
+    "color": "#c4c27655"
+  },
+  {
+    "id": "XenoBasher",
+    "color": "#4d6600"
+  },
+  {
+    "id": "IrishBool",
+    "color": "#71672e99"
+  },
+  {
+    "id": "BudgetInsulsDrink",
+    "color": "#dede73"
+  },
+  {
+    "id": "WatermelonWakeup",
+    "color": "#d49dca"
+  },
+  {
+    "id": "Rubberneck",
+    "color": "#f0d74a"
+  },
+  {
+    "id": "BlueHawaiian",
+    "color": "#47687b"
+  },
+  {
+    "id": "Caipirinha",
+    "color": "#E6EE9C"
+  },
+  {
+    "id": "MoscowMule",
+    "color": "#CECBAD"
+  },
+  {
+    "id": "Mimeosa",
+    "color": "#939393"
+  },
+  {
+    "id": "Mimosa",
+    "color": "#FFCA48"
+  },
+  {
+    "id": "Mayojito",
+    "color": "#6FBE44"
+  },
+  {
+    "id": "DeathInTheAfternoon",
+    "color": "#57A87D"
+  },
+  {
+    "id": "Empress75",
+    "color": "#900296"
+  },
+  {
+    "id": "EspressoMartini",
+    "color": "#170a0c"
+  },
+  {
+    "id": "Daiquiri",
+    "color": "#DAC865"
+  },
+  {
+    "id": "TheSunAlsoRises",
+    "color": "#DCE2DE"
+  },
+  {
+    "id": "WhiskeySour",
+    "color": "#8B7941"
+  },
+  {
+    "id": "ZombieCocktail",
+    "color": "#d17844"
+  },
+  {
+    "id": "BacchusBlessing",
+    "color": "#331303"
+  },
+  {
+    "id": "Coffee",
+    "color": "#664300"
+  },
+  {
+    "id": "HotCocoa",
+    "color": "#664300"
+  },
+  {
+    "id": "Cream",
+    "color": "#DFD7AF"
+  },
+  {
+    "id": "CoconutWater",
+    "color": "#f4eadb"
+  },
+  {
+    "id": "CreamOfCoconut",
+    "color": "#FFEABF"
+  },
+  {
+    "id": "CafeLatte",
+    "color": "#664300"
+  },
+  {
+    "id": "GreenTea",
+    "color": "#7EB626"
+  },
+  {
+    "id": "Grenadine",
+    "color": "#EA1D26"
+  },
+  {
+    "id": "IcedCoffee",
+    "color": "#102838"
+  },
+  {
+    "id": "IcedGreenTea",
+    "color": "#5B821B"
+  },
+  {
+    "id": "IcedTea",
+    "color": "#6C3916"
+  },
+  {
+    "id": "Lemonade",
+    "color": "#FFFF00"
+  },
+  {
+    "id": "Milk",
+    "color": "#DFDFDF"
+  },
+  {
+    "id": "MilkGoat",
+    "color": "gray"
+  },
+  {
+    "id": "MilkSoy",
+    "color": "#D2C29D"
+  },
+  {
+    "id": "Nothing",
+    "color": "gray"
+  },
+  {
+    "id": "NuclearCola",
+    "color": "#100800"
+  },
+  {
+    "id": "SodaWater",
+    "color": "#619494"
+  },
+  {
+    "id": "SoyLatte",
+    "color": "#664300"
+  },
+  {
+    "id": "Tea",
+    "color": "#8a5a3a"
+  },
+  {
+    "id": "TonicWater",
+    "color": "#0064C8"
+  },
+  {
+    "id": "Water",
+    "color": "#75b1f0"
+  },
+  {
+    "id": "Ice",
+    "color": "#bed8e6"
+  },
+  {
+    "id": "DryRamen",
+    "color": "#664300"
+  },
+  {
+    "id": "HotRamen",
+    "color": "#664300"
+  },
+  {
+    "id": "ArnoldPalmer",
+    "color": "#d8cc5d"
+  },
+  {
+    "id": "Pilk",
+    "color": "#e7c69f"
+  },
+  {
+    "id": "Posca",
+    "color": "#B3B599"
+  },
+  {
+    "id": "OrangeLimeSoda",
+    "color": "#CCCC99"
+  },
+  {
+    "id": "Rewriter",
+    "color": "#485000"
+  },
+  {
+    "id": "Tortuga",
+    "color": "#1c8c40"
+  },
+  {
+    "id": "JuiceApple",
+    "color": "#FDAD01"
+  },
+  {
+    "id": "JuiceBanana",
+    "color": "#FFE777"
+  },
+  {
+    "id": "JuiceBerry",
+    "color": "#660099"
+  },
+  {
+    "id": "JuiceLemon",
+    "color": "#fff690"
+  },
+  {
+    "id": "JuiceLime",
+    "color": "#99bb43"
+  },
+  {
+    "id": "JuiceOrange",
+    "color": "#E78108"
+  },
+  {
+    "id": "JuicePineapple",
+    "color": "yellow"
+  },
+  {
+    "id": "JuiceTomato",
+    "color": "#731008"
+  },
+  {
+    "id": "JuiceWatermelon",
+    "color": "#EF3520"
+  },
+  {
+    "id": "Cola",
+    "color": "#6c2828"
+  },
+  {
+    "id": "RoyRogers",
+    "color": "#262019"
+  },
+  {
+    "id": "DrGibb",
+    "color": "#102000"
+  },
+  {
+    "id": "EnergyDrink",
+    "color": "#ffffbf"
+  },
+  {
+    "id": "IceCream",
+    "color": "#fffbd6"
+  },
+  {
+    "id": "LemonLime",
+    "color": "#878F00"
+  },
+  {
+    "id": "RootBeer",
+    "color": "#381c07"
+  },
+  {
+    "id": "RootBeerFloat",
+    "color": "#4f361f"
+  },
+  {
+    "id": "SolDry",
+    "color": "#ccb87e"
+  },
+  {
+    "id": "ShirleyTemple",
+    "color": "#af2221"
+  },
+  {
+    "id": "SpaceMountainWind",
+    "color": "#a6fa5a"
+  },
+  {
+    "id": "SpaceUp",
+    "color": "#e3e3e37d"
+  },
+  {
+    "id": "Starkist",
+    "color": "#9F3400"
+  },
+  {
+    "id": "FourteenLoko",
+    "color": "#deb928"
+  },
+  {
+    "id": "BbqSauce",
+    "color": "darkred"
+  },
+  {
+    "id": "Coldsauce",
+    "color": "skyblue"
+  },
+  {
+    "id": "Hotsauce",
+    "color": "red"
+  },
+  {
+    "id": "Ketchup",
+    "color": "red"
+  },
+  {
+    "id": "Ketchunaise",
+    "color": "#fba399"
+  },
+  {
+    "id": "Mayo",
+    "color": "#f9f5e5"
+  },
+  {
+    "id": "Mustard",
+    "color": "#ffdb58"
+  },
+  {
+    "id": "Vinaigrette",
+    "color": "#efdaae"
+  },
+  {
+    "id": "Soysauce",
+    "color": "saddlebrown"
+  },
+  {
+    "id": "TableSalt",
+    "color": "#cfd1d0"
+  },
+  {
+    "id": "Syrup",
+    "color": "#fb7125"
+  },
+  {
+    "id": "Nutriment",
+    "color": "#24591F"
+  },
+  {
+    "id": "Vitamin",
+    "color": "#D3D3D3"
+  },
+  {
+    "id": "Protein",
+    "color": "#FFFFE5"
+  },
+  {
+    "id": "Sugar",
+    "color": "white"
+  },
+  {
+    "id": "Flour",
+    "color": "white"
+  },
+  {
+    "id": "Cornmeal",
+    "color": "tan"
+  },
+  {
+    "id": "Enzyme",
+    "color": "#009900"
+  },
+  {
+    "id": "Egg",
+    "color": "white"
+  },
+  {
+    "id": "EggCooked",
+    "color": "white"
+  },
+  {
+    "id": "Blackpepper",
+    "color": "black"
+  },
+  {
+    "id": "Vinegar",
+    "color": "tan"
+  },
+  {
+    "id": "OilOlive",
+    "color": "olive"
+  },
+  {
+    "id": "Oil",
+    "color": "#b67823"
+  },
+  {
+    "id": "CapsaicinOil",
+    "color": "#FF0000"
+  },
+  {
+    "id": "CocoaPowder",
+    "color": "#800000"
+  },
+  {
+    "id": "TeaPowder",
+    "color": "#7F8400"
+  },
+  {
+    "id": "FrostOil",
+    "color": "skyblue"
+  },
+  {
+    "id": "Blood",
+    "color": "#800000"
+  },
+  {
+    "id": "InsectBlood",
+    "color": "#808A51"
+  },
+  {
+    "id": "Slime",
+    "color": "#2cf274"
+  },
+  {
+    "id": "Sap",
+    "color": "#cd7314"
+  },
+  {
+    "id": "CopperBlood",
+    "color": "#162581"
+  },
+  {
+    "id": "AmmoniaBlood",
+    "color": "#7a8bf2"
+  },
+  {
+    "id": "SulfurBlood",
+    "color": "#ccac1f"
+  },
+  {
+    "id": "ZombieBlood",
+    "color": "#2b0700"
+  },
+  {
+    "id": "Fat",
+    "color": "#d8d8b0"
+  },
+  {
+    "id": "EZNutrient",
+    "color": "#664330"
+  },
+  {
+    "id": "Left4Zed",
+    "color": "#5b406c"
+  },
+  {
+    "id": "PlantBGone",
+    "color": "#49002E"
+  },
+  {
+    "id": "RobustHarvest",
+    "color": "#3e901c"
+  },
+  {
+    "id": "Sedin",
+    "color": "#3CB371"
+  },
+  {
+    "id": "Ammonia",
+    "color": "#77b58e"
+  },
+  {
+    "id": "Diethylamine",
+    "color": "#a1000b"
+  },
+  {
+    "id": "Acetone",
+    "color": "#AF14B7"
+  },
+  {
+    "id": "Phenol",
+    "color": "#E7EA91"
+  },
+  {
+    "id": "Charcoal",
+    "color": "#22282b"
+  },
+  {
+    "id": "Ash",
+    "color": "white"
+  },
+  {
+    "id": "Lye",
+    "color": "#e5420b"
+  },
+  {
+    "id": "SodiumCarbonate",
+    "color": "white"
+  },
+  {
+    "id": "Artifexium",
+    "color": "#776291"
+  },
+  {
+    "id": "ArtifactGlue",
+    "color": "#827394"
+  },
+  {
+    "id": "Benzene",
+    "color": "#E7EA91"
+  },
+  {
+    "id": "Hydroxide",
+    "color": "white"
+  },
+  {
+    "id": "SodiumHydroxide",
+    "color": "white"
+  },
+  {
+    "id": "Fersilicite",
+    "color": "#434b4d"
+  },
+  {
+    "id": "SodiumPolyacrylate",
+    "color": "#F0F0F0"
+  },
+  {
+    "id": "Cellulose",
+    "color": "#E6E6DA"
+  },
+  {
+    "id": "Bleach",
+    "color": "#a1000b"
+  },
+  {
+    "id": "SpaceCleaner",
+    "color": "#c8ff69"
+  },
+  {
+    "id": "SpaceLube",
+    "color": "#77b58e"
+  },
+  {
+    "id": "SpaceGlue",
+    "color": "#ffffff"
+  },
+  {
+    "id": "Aluminium",
+    "color": "#848789"
+  },
+  {
+    "id": "Carbon",
+    "color": "#22282b"
+  },
+  {
+    "id": "Chlorine",
+    "color": "#a2ff00"
+  },
+  {
+    "id": "Copper",
+    "color": "#b05b3c"
+  },
+  {
+    "id": "Fluorine",
+    "color": "#ba85cc"
+  },
+  {
+    "id": "Gold",
+    "color": "#F7C430"
+  },
+  {
+    "id": "Hydrogen",
+    "color": "#cccccc"
+  },
+  {
+    "id": "Iodine",
+    "color": "#BC8A00"
+  },
+  {
+    "id": "Iron",
+    "color": "#434b4d"
+  },
+  {
+    "id": "Lithium",
+    "color": "#d6c0a7"
+  },
+  {
+    "id": "Mercury",
+    "color": "#929296"
+  },
+  {
+    "id": "Potassium",
+    "color": "#c6c8cc"
+  },
+  {
+    "id": "Phosphorus",
+    "color": "#f5da9a"
+  },
+  {
+    "id": "Radium",
+    "color": "#00ff04"
+  },
+  {
+    "id": "Silicon",
+    "color": "#364266"
+  },
+  {
+    "id": "Silver",
+    "color": "#d0d0d0"
+  },
+  {
+    "id": "Sulfur",
+    "color": "#fff385"
+  },
+  {
+    "id": "Sodium",
+    "color": "#a7b3d6"
+  },
+  {
+    "id": "Uranium",
+    "color": "#8fa191"
+  },
+  {
+    "id": "Zinc",
+    "color": "#bababa"
+  },
+  {
+    "id": "Carpetium",
+    "color": "#800000"
+  },
+  {
+    "id": "Fiber",
+    "color": "#808080"
+  },
+  {
+    "id": "BuzzochloricBees",
+    "color": "#FFD35D"
+  },
+  {
+    "id": "GroundBee",
+    "color": "#86530E"
+  },
+  {
+    "id": "Saxoite",
+    "color": "#B8A603"
+  },
+  {
+    "id": "Licoxide",
+    "color": "#FDD023"
+  },
+  {
+    "id": "Razorium",
+    "color": "#e3fffb"
+  },
+  {
+    "id": "Fresium",
+    "color": "#b3f1ff"
+  },
+  {
+    "id": "Laughter",
+    "color": "#FF4DD2"
+  },
+  {
+    "id": "JuiceThatMakesYouWeh",
+    "color": "#59b23a"
+  },
+  {
+    "id": "JuiceThatMakesYouHew",
+    "color": "#a64dc5"
+  },
+  {
+    "id": "CorgiJuice",
+    "color": "#ed9715"
+  },
+  {
+    "id": "Felinase",
+    "color": "#d8bed8"
+  },
+  {
+    "id": "Caninase",
+    "color": "#b87333"
+  },
+  {
+    "id": "Oxygen",
+    "color": "#c4f5ff"
+  },
+  {
+    "id": "Plasma",
+    "color": "#7e009e"
+  },
+  {
+    "id": "CarbonDioxide",
+    "color": "#66ff33"
+  },
+  {
+    "id": "Nitrogen",
+    "color": "#a1e1ff"
+  },
+  {
+    "id": "NitrousOxide",
+    "color": "#5d88c9"
+  },
+  {
+    "id": "Frezon",
+    "color": "#3a758c"
+  },
+  {
+    "id": "Cryptobiolin",
+    "color": "#081a80"
+  },
+  {
+    "id": "Dylovene",
+    "color": "#3a1d8a"
+  },
+  {
+    "id": "Diphenhydramine",
+    "color": "#64ffe6"
+  },
+  {
+    "id": "Ethylredoxrazine",
+    "color": "#2d5708"
+  },
+  {
+    "id": "Arithrazine",
+    "color": "#bd5902"
+  },
+  {
+    "id": "Bicaridine",
+    "color": "#ffaa00"
+  },
+  {
+    "id": "Cryoxadone",
+    "color": "#0091ff"
+  },
+  {
+    "id": "Doxarubixadone",
+    "color": "#32cd32"
+  },
+  {
+    "id": "Dermaline",
+    "color": "#215263"
+  },
+  {
+    "id": "Dexalin",
+    "color": "#0041a8"
+  },
+  {
+    "id": "DexalinPlus",
+    "color": "#4da0bd"
+  },
+  {
+    "id": "Epinephrine",
+    "color": "#d2fffa"
+  },
+  {
+    "id": "Hyronalin",
+    "color": "#4cb580"
+  },
+  {
+    "id": "Ipecac",
+    "color": "#422912"
+  },
+  {
+    "id": "Inaprovaline",
+    "color": "#731024"
+  },
+  {
+    "id": "Kelotane",
+    "color": "#bf3d19"
+  },
+  {
+    "id": "Leporazine",
+    "color": "#ff7db5"
+  },
+  {
+    "id": "Phalanximine",
+    "color": "#c8ff75"
+  },
+  {
+    "id": "Ambuzol",
+    "color": "#86caf7"
+  },
+  {
+    "id": "AmbuzolPlus",
+    "color": "#1274b5"
+  },
+  {
+    "id": "Saline",
+    "color": "#0064C8"
+  },
+  {
+    "id": "Siderlac",
+    "color": "#f4dab8"
+  },
+  {
+    "id": "Stellibinin",
+    "color": "#2b2f77"
+  },
+  {
+    "id": "Synaptizine",
+    "color": "#d49a2f"
+  },
+  {
+    "id": "TranexamicAcid",
+    "color": "#ba7d7d"
+  },
+  {
+    "id": "Tricordrazine",
+    "color": "#00e5ff"
+  },
+  {
+    "id": "Lipozine",
+    "color": "#2690b5"
+  },
+  {
+    "id": "Omnizine",
+    "color": "#fcf7f9"
+  },
+  {
+    "id": "Ultravasculine",
+    "color": "#520e30"
+  },
+  {
+    "id": "Oculine",
+    "color": "#404040"
+  },
+  {
+    "id": "Cognizine",
+    "color": "#b50ee8"
+  },
+  {
+    "id": "Ethyloxyephedrine",
+    "color": "#d5d5e4"
+  },
+  {
+    "id": "Diphenylmethylamine",
+    "color": "#b0abaa"
+  },
+  {
+    "id": "Sigynate",
+    "color": "#e0a5b9"
+  },
+  {
+    "id": "Lacerinol",
+    "color": "#283332"
+  },
+  {
+    "id": "Puncturase",
+    "color": "#b9bf93"
+  },
+  {
+    "id": "Bruizine",
+    "color": "#ff3636"
+  },
+  {
+    "id": "Holywater",
+    "color": "#91C3F7"
+  },
+  {
+    "id": "Pyrazine",
+    "color": "#aa4308"
+  },
+  {
+    "id": "Insuzine",
+    "color": "#8147ff"
+  },
+  {
+    "id": "Opporozidone",
+    "color": "#b5e36d"
+  },
+  {
+    "id": "Arcryox",
+    "color": "#0cbfe9"
+  },
+  {
+    "id": "Aloxadone",
+    "color": "#89f77f"
+  },
+  {
+    "id": "Mannitol",
+    "color": "#A0A0A0"
+  },
+  {
+    "id": "Psicodine",
+    "color": "#07E79E"
+  },
+  {
+    "id": "PotassiumIodide",
+    "color": "#baa15d"
+  },
+  {
+    "id": "Haloperidol",
+    "color": "#27870a"
+  },
+  {
+    "id": "Heparin",
+    "color": "#d0e21b"
+  },
+  {
+    "id": "Desoxyephedrine",
+    "color": "#FAFAFA"
+  },
+  {
+    "id": "Ephedrine",
+    "color": "#D2FFFA"
+  },
+  {
+    "id": "Stimulants",
+    "color": "#9A040E"
+  },
+  {
+    "id": "THC",
+    "color": "#808080"
+  },
+  {
+    "id": "Impedrezene",
+    "color": "#215263"
+  },
+  {
+    "id": "SpaceDrugs",
+    "color": "#63806e"
+  },
+  {
+    "id": "Bananadine",
+    "color": "#ffff00"
+  },
+  {
+    "id": "Nocturine",
+    "color": "#128e80"
+  },
+  {
+    "id": "MuteToxin",
+    "color": "#000000"
+  },
+  {
+    "id": "NorepinephricAcid",
+    "color": "#96a8b5"
+  },
+  {
+    "id": "Happiness",
+    "color": "#EE35FF"
+  },
+  {
+    "id": "Thermite",
+    "color": "#757245"
+  },
+  {
+    "id": "Napalm",
+    "color": "#FA00AF"
+  },
+  {
+    "id": "Phlogiston",
+    "color": "#D4872A"
+  },
+  {
+    "id": "ChlorineTrifluoride",
+    "color": "#FFC8C8"
+  },
+  {
+    "id": "FoamingAgent",
+    "color": "#215263"
+  },
+  {
+    "id": "WeldingFuel",
+    "color": "#a76b1c"
+  },
+  {
+    "id": "Fluorosurfactant",
+    "color": "#9e6b38"
+  },
+  {
+    "id": "Toxin",
+    "color": "#cf3600"
+  },
+  {
+    "id": "CarpoToxin",
+    "color": "#e2a38c"
+  },
+  {
+    "id": "ChloralHydrate",
+    "color": "#000067"
+  },
+  {
+    "id": "Mold",
+    "color": "#8a9a5b"
+  },
+  {
+    "id": "PolytrinicAcid",
+    "color": "#a1000b"
+  },
+  {
+    "id": "FluorosulfuricAcid",
+    "color": "#5050ff"
+  },
+  {
+    "id": "SulfuricAcid",
+    "color": "#BF8C00"
+  },
+  {
+    "id": "UnstableMutagen",
+    "color": "#00ff5f"
+  },
+  {
+    "id": "HeartbreakerToxin",
+    "color": "#5f959c"
+  },
+  {
+    "id": "Lexorin",
+    "color": "#6b0007"
+  },
+  {
+    "id": "MindbreakerToxin",
+    "color": "#77b58e"
+  },
+  {
+    "id": "Histamine",
+    "color": "#FA6464"
+  },
+  {
+    "id": "Amatoxin",
+    "color": "#D6CE7B"
+  },
+  {
+    "id": "UncookedAnimalProteins",
+    "color": "#FFFFE5"
+  },
+  {
+    "id": "Allicin",
+    "color": "#F2E9D2"
+  },
+  {
+    "id": "Pax",
+    "color": "#AAAAAA"
+  },
+  {
+    "id": "Honk",
+    "color": "#F2E9D2"
+  },
+  {
+    "id": "Vestine",
+    "color": "#435166"
+  },
+  {
+    "id": "Tazinide",
+    "color": "#FDD023"
+  },
+  {
+    "id": "Lipolicide",
+    "color": "#F0FFF0"
+  },
+  {
+    "id": "Hemorrhinol",
+    "color": "#96424f"
+  }
+]

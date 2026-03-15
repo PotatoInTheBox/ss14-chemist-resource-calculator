@@ -1,0 +1,38 @@
+{
+  "Empty": [],
+
+  "General Medical Stock": [
+    { "id": "Saline", "amount": 200 },
+    { "id": "DexalinPlus", "amount": 180 },
+    { "id": "Bicaridine", "amount": 180 },
+    { "id": "Bruizine", "amount": 200 },
+    { "id": "Lacerinol", "amount": 180 },
+    { "id": "Puncturase", "amount": 200 },
+    { "id": "Dermaline", "amount": 180 },
+    { "id": "Leporazine", "amount": 200 },
+    { "id": "Pyrazine", "amount": 180 },
+    { "id": "Sigynate", "amount": 160 },
+    { "id": "Dylovene", "amount": 180 },
+    { "id": "Diphenhydramine", "amount": 180 },
+    { "id": "Arithrazine", "amount": 200 },
+    { "id": "Phalanximine", "amount": 180 }
+  ],
+
+  "Basic Medical Stock": [
+    { "id": "Saline", "amount": 200 },
+    { "id": "DexalinPlus", "amount": 180 },
+    { "id": "Bicaridine", "amount": 180 },
+    { "id": "Dermaline", "amount": 180 }
+  ],
+
+  "Special Requests": [
+    { "id": "Tricordrazine", "amount": 200 },
+    { "id": "Inaprovaline", "amount": 200 },
+    { "id": "TranexamicAcid", "amount": 200 }
+  ],
+
+  "Cryo Medical Stock": [
+    { "id": "Arcryox", "amount": 200 },
+    { "id": "Cryoxadone", "amount": 200 }
+  ]
+}

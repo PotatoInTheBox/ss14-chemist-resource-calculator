@@ -1,0 +1,3349 @@
+[
+  {
+    "id": "UnknownReaction",
+    "reactants": {},
+    "products": {}
+  },
+  {
+    "id": "BloodBreakdown",
+    "reactants": {
+      "Blood": 20
+    },
+    "products": {
+      "Water": 11,
+      "Iron": 0.5,
+      "Sugar": 2,
+      "CarbonDioxide": 3,
+      "Protein": 4
+    }
+  },
+  {
+    "id": "InsectBloodBreakdown",
+    "reactants": {
+      "InsectBlood": 30
+    },
+    "products": {
+      "Water": 14,
+      "Sodium": 3,
+      "Chlorine": 1.5,
+      "CarbonDioxide": 5.5,
+      "Protein": 6
+    }
+  },
+  {
+    "id": "SlimeBloodBreakdown",
+    "reactants": {
+      "Slime": 5
+    },
+    "products": {
+      "Water": 4,
+      "Nitrogen": 1
+    }
+  },
+  {
+    "id": "SapBloodBreakdown",
+    "reactants": {
+      "Sap": 10
+    },
+    "products": {
+      "Water": 9,
+      "Sugar": 1
+    }
+  },
+  {
+    "id": "CopperBloodBreakdown",
+    "reactants": {
+      "CopperBlood": 20
+    },
+    "products": {
+      "Water": 11,
+      "Copper": 0.5,
+      "Sugar": 2,
+      "CarbonDioxide": 3,
+      "Protein": 4
+    }
+  },
+  {
+    "id": "AmmoniaBloodBreakdown",
+    "reactants": {
+      "AmmoniaBlood": 30
+    },
+    "products": {
+      "Water": 17,
+      "Nitrogen": 4.5,
+      "Chlorine": 2.5,
+      "Protein": 6
+    }
+  },
+  {
+    "id": "SulfurBloodBreakdown",
+    "reactants": {
+      "SulfurBlood": 20
+    },
+    "products": {
+      "Water": 10,
+      "Sulfur": 2,
+      "Hydrogen": 1,
+      "CarbonDioxide": 3,
+      "Protein": 4
+    }
+  },
+  {
+    "id": "ZombieBloodBreakdown",
+    "reactants": {
+      "ZombieBlood": 4
+    },
+    "products": {
+      "Mold": 2,
+      "Protein": 1,
+      "Toxin": 1
+    }
+  },
+  {
+    "id": "EZNutrient",
+    "reactants": {
+      "Nitrogen": 1,
+      "Phosphorus": 1,
+      "Potassium": 1
+    },
+    "products": {
+      "EZNutrient": 3
+    }
+  },
+  {
+    "id": "RobustHarvest",
+    "reactants": {
+      "EZNutrient": 1,
+      "SulfuricAcid": 1
+    },
+    "products": {
+      "RobustHarvest": 1,
+      "SulfuricAcid": 1
+    }
+  },
+  {
+    "id": "Sedin",
+    "reactants": {
+      "Cryoxadone": 1,
+      "RobustHarvest": 3,
+      "Diethylamine": 3
+    },
+    "products": {
+      "Sedin": 1
+    }
+  },
+  {
+    "id": "Left4Zed",
+    "reactants": {
+      "EZNutrient": 1,
+      "Radium": 1
+    },
+    "products": {
+      "Left4Zed": 1,
+      "Radium": 1
+    }
+  },
+  {
+    "id": "PlantBGone",
+    "reactants": {
+      "Toxin": 1,
+      "Water": 4
+    },
+    "products": {
+      "PlantBGone": 5
+    }
+  },
+  {
+    "id": "Ammonia",
+    "reactants": {
+      "Hydrogen": 3,
+      "Nitrogen": 1
+    },
+    "products": {
+      "Ammonia": 4
+    }
+  },
+  {
+    "id": "CelluloseBreakdown",
+    "reactants": {
+      "Cellulose": 3
+    },
+    "products": {
+      "Sugar": 2,
+      "Carbon": 1
+    }
+  },
+  {
+    "id": "Diethylamine",
+    "reactants": {
+      "Ammonia": 1,
+      "Ethanol": 1
+    },
+    "products": {
+      "Diethylamine": 2
+    }
+  },
+  {
+    "id": "Phenol",
+    "reactants": {
+      "Hydroxide": 1,
+      "Benzene": 1
+    },
+    "products": {
+      "Phenol": 2
+    }
+  },
+  {
+    "id": "Acetone",
+    "reactants": {
+      "Oil": 1,
+      "WeldingFuel": 1,
+      "Oxygen": 1
+    },
+    "products": {
+      "Acetone": 2
+    }
+  },
+  {
+    "id": "FoamingAgent",
+    "reactants": {
+      "Lithium": 1,
+      "Hydrogen": 1
+    },
+    "products": {
+      "FoamingAgent": 2
+    }
+  },
+  {
+    "id": "PolytrinicAcid",
+    "reactants": {
+      "SulfuricAcid": 1,
+      "Plasma": 1,
+      "Potassium": 1
+    },
+    "products": {
+      "PolytrinicAcid": 3
+    }
+  },
+  {
+    "id": "SulfuricAcid",
+    "reactants": {
+      "Hydrogen": 1,
+      "Sulfur": 1,
+      "Oxygen": 2
+    },
+    "products": {
+      "SulfuricAcid": 3
+    }
+  },
+  {
+    "id": "FluorosulfuricAcid",
+    "reactants": {
+      "Fluorine": 1,
+      "Hydrogen": 1,
+      "Potassium": 1,
+      "SulfuricAcid": 1
+    },
+    "products": {
+      "FluorosulfuricAcid": 4
+    }
+  },
+  {
+    "id": "PotassiumExplosion",
+    "reactants": {
+      "Water": 1,
+      "Potassium": 1
+    },
+    "products": {}
+  },
+  {
+    "id": "Smoke",
+    "reactants": {
+      "Phosphorus": 1,
+      "Potassium": 1,
+      "Sugar": 1
+    },
+    "products": {}
+  },
+  {
+    "id": "Foam",
+    "reactants": {
+      "Fluorosurfactant": 1,
+      "Water": 1
+    },
+    "products": {}
+  },
+  {
+    "id": "IronMetalFoam",
+    "reactants": {
+      "Iron": 3,
+      "FoamingAgent": 1,
+      "FluorosulfuricAcid": 1
+    },
+    "products": {}
+  },
+  {
+    "id": "AluminiumMetalFoam",
+    "reactants": {
+      "Aluminium": 3,
+      "FoamingAgent": 1,
+      "FluorosulfuricAcid": 1
+    },
+    "products": {}
+  },
+  {
+    "id": "UraniumEmpExplosion",
+    "reactants": {
+      "Iron": 1,
+      "Uranium": 1,
+      "Aluminium": 1
+    },
+    "products": {}
+  },
+  {
+    "id": "Flash",
+    "reactants": {
+      "Aluminium": 1,
+      "Potassium": 1,
+      "Sulfur": 1
+    },
+    "products": {}
+  },
+  {
+    "id": "TableSalt",
+    "reactants": {
+      "Chlorine": 1,
+      "Sodium": 1
+    },
+    "products": {
+      "TableSalt": 2
+    },
+    "minTemp": 370
+  },
+  {
+    "id": "TableSaltBreakdown",
+    "reactants": {
+      "TableSalt": 2
+    },
+    "products": {
+      "Chlorine": 1,
+      "Sodium": 1
+    }
+  },
+  {
+    "id": "Thermite",
+    "reactants": {
+      "Iron": 1,
+      "Aluminium": 1,
+      "Oxygen": 1
+    },
+    "products": {
+      "Thermite": 3
+    }
+  },
+  {
+    "id": "UnstableMutagen",
+    "reactants": {
+      "Radium": 1,
+      "Phosphorus": 1,
+      "Chlorine": 1
+    },
+    "products": {
+      "UnstableMutagen": 3
+    }
+  },
+  {
+    "id": "Oil",
+    "reactants": {
+      "WeldingFuel": 1,
+      "Hydrogen": 1,
+      "Carbon": 1
+    },
+    "products": {
+      "Oil": 3
+    }
+  },
+  {
+    "id": "Fluorosurfactant",
+    "reactants": {
+      "Carbon": 2,
+      "Fluorine": 2,
+      "SulfuricAcid": 1
+    },
+    "products": {
+      "Fluorosurfactant": 5
+    }
+  },
+  {
+    "id": "Desoxyephedrine",
+    "reactants": {
+      "Ephedrine": 1,
+      "Carbon": 1,
+      "Iodine": 1,
+      "Phosphorus": 1
+    },
+    "products": {
+      "Desoxyephedrine": 4
+    },
+    "minTemp": 370
+  },
+  {
+    "id": "Stimulants",
+    "reactants": {
+      "Ephedrine": 1,
+      "Vestine": 1,
+      "Oxygen": 2
+    },
+    "products": {
+      "Stimulants": 2
+    },
+    "minTemp": 370
+  },
+  {
+    "id": "Ephedrine",
+    "reactants": {
+      "Oil": 1,
+      "Hydrogen": 1,
+      "Sugar": 1,
+      "Diethylamine": 1
+    },
+    "products": {
+      "Ephedrine": 4
+    }
+  },
+  {
+    "id": "MuteToxin",
+    "reactants": {
+      "Vestine": 2,
+      "SpaceGlue": 2
+    },
+    "products": {
+      "MuteToxin": 2
+    },
+    "minTemp": 370
+  },
+  {
+    "id": "ChloralHydrate",
+    "reactants": {
+      "Chlorine": 3,
+      "Ethanol": 1,
+      "Water": 1
+    },
+    "products": {
+      "ChloralHydrate": 1
+    }
+  },
+  {
+    "id": "Pax",
+    "reactants": {
+      "MindbreakerToxin": 1,
+      "Synaptizine": 1,
+      "Water": 1
+    },
+    "products": {
+      "Pax": 3
+    }
+  },
+  {
+    "id": "Charcoal",
+    "reactants": {
+      "Carbon": 1,
+      "Ash": 1
+    },
+    "products": {
+      "Charcoal": 1
+    }
+  },
+  {
+    "id": "NorepinephricAcid",
+    "reactants": {
+      "Uranium": 1,
+      "Epinephrine": 1
+    },
+    "products": {
+      "NorepinephricAcid": 2
+    }
+  },
+  {
+    "id": "Ethyloxyephedrine",
+    "reactants": {
+      "Desoxyephedrine": 1,
+      "Stellibinin": 1
+    },
+    "products": {
+      "Ethyloxyephedrine": 2
+    }
+  },
+  {
+    "id": "Diphenylmethylamine",
+    "reactants": {
+      "Ethyloxyephedrine": 1,
+      "SodiumCarbonate": 1,
+      "Coffee": 1
+    },
+    "products": {
+      "Diphenylmethylamine": 3
+    }
+  },
+  {
+    "id": "SodiumCarbonate",
+    "reactants": {
+      "Ammonia": 1,
+      "TableSalt": 1,
+      "Carbon": 1,
+      "Oxygen": 1
+    },
+    "products": {
+      "SodiumCarbonate": 4
+    }
+  },
+  {
+    "id": "Benzene",
+    "reactants": {
+      "Hydrogen": 1,
+      "Carbon": 1
+    },
+    "products": {
+      "Benzene": 1
+    },
+    "minTemp": 310
+  },
+  {
+    "id": "Hydroxide",
+    "reactants": {
+      "Oxygen": 1,
+      "Hydrogen": 1
+    },
+    "products": {
+      "Hydroxide": 2
+    },
+    "minTemp": 310
+  },
+  {
+    "id": "SodiumHydroxide",
+    "reactants": {
+      "Hydroxide": 1,
+      "Sodium": 1
+    },
+    "products": {
+      "SodiumHydroxide": 2
+    }
+  },
+  {
+    "id": "Fersilicite",
+    "reactants": {
+      "Iron": 1,
+      "Silicon": 1
+    },
+    "products": {
+      "Fersilicite": 2
+    },
+    "minTemp": 310
+  },
+  {
+    "id": "SodiumPolyacrylate",
+    "reactants": {
+      "Oxygen": 2,
+      "Sodium": 1,
+      "Nitrogen": 1
+    },
+    "products": {
+      "SodiumPolyacrylate": 4
+    }
+  },
+  {
+    "id": "Nocturine",
+    "reactants": {
+      "Impedrezene": 2,
+      "Vestine": 1
+    },
+    "products": {
+      "Nocturine": 1
+    }
+  },
+  {
+    "id": "Tazinide",
+    "reactants": {
+      "Licoxide": 1,
+      "Vestine": 1
+    },
+    "products": {
+      "Tazinide": 1
+    }
+  },
+  {
+    "id": "ArtifactGlue",
+    "reactants": {
+      "SpaceGlue": 1,
+      "Artifexium": 1
+    },
+    "products": {
+      "ArtifactGlue": 2
+    }
+  },
+  {
+    "id": "Lye",
+    "reactants": {
+      "Water": 1,
+      "Ash": 1
+    },
+    "products": {
+      "Lye": 2
+    }
+  },
+  {
+    "id": "Bleach",
+    "reactants": {
+      "TableSalt": 2,
+      "SpaceCleaner": 2,
+      "SodiumHydroxide": 1
+    },
+    "products": {
+      "Bleach": 5
+    }
+  },
+  {
+    "id": "AmmoniaFromBlood",
+    "reactants": {
+      "AmmoniaBlood": 2
+    },
+    "products": {
+      "Ammonia": 1
+    },
+    "minTemp": 370
+  },
+  {
+    "id": "SpaceCleaner",
+    "reactants": {
+      "Ammonia": 1,
+      "Water": 1
+    },
+    "products": {
+      "SpaceCleaner": 2
+    }
+  },
+  {
+    "id": "SpaceLube",
+    "reactants": {
+      "Water": 1,
+      "Fersilicite": 1,
+      "Oxygen": 1
+    },
+    "products": {
+      "SpaceLube": 5
+    }
+  },
+  {
+    "id": "AcidSpit",
+    "reactants": {
+      "Wine": 2,
+      "SulfuricAcid": 1
+    },
+    "products": {
+      "AcidSpit": 3
+    }
+  },
+  {
+    "id": "AlienBrainHemorrhage",
+    "reactants": {
+      "IrishCream": 1,
+      "BlueCuracao": 1,
+      "Grenadine": 1
+    },
+    "products": {
+      "AlienBrainHemorrhage": 3
+    }
+  },
+  {
+    "id": "AlliesCocktail",
+    "reactants": {
+      "Martini": 2,
+      "Vodka": 1
+    },
+    "products": {
+      "AlliesCocktail": 3
+    }
+  },
+  {
+    "id": "Amasec",
+    "reactants": {
+      "Wine": 2,
+      "Vodka": 2,
+      "Iron": 1
+    },
+    "products": {
+      "Amasec": 5
+    }
+  },
+  {
+    "id": "Andalusia",
+    "reactants": {
+      "Rum": 1,
+      "Whiskey": 1,
+      "JuiceLemon": 1
+    },
+    "products": {
+      "Andalusia": 3
+    }
+  },
+  {
+    "id": "Antifreeze",
+    "reactants": {
+      "Cream": 1,
+      "Ice": 1,
+      "Vodka": 2
+    },
+    "products": {
+      "Antifreeze": 4
+    }
+  },
+  {
+    "id": "ArnoldPalmer",
+    "reactants": {
+      "IcedTea": 1,
+      "Lemonade": 1
+    },
+    "products": {
+      "ArnoldPalmer": 2
+    }
+  },
+  {
+    "id": "AtomicBomb",
+    "reactants": {
+      "B52": 10,
+      "Uranium": 1
+    },
+    "products": {
+      "AtomicBomb": 10
+    }
+  },
+  {
+    "id": "B52",
+    "reactants": {
+      "Cognac": 1,
+      "IrishSlammer": 1,
+      "CoffeeLiqueur": 1
+    },
+    "products": {
+      "B52": 3
+    }
+  },
+  {
+    "id": "BudgetInsulsDrink",
+    "reactants": {
+      "Tequila": 1,
+      "VodkaRedBool": 3
+    },
+    "products": {
+      "BudgetInsulsDrink": 4
+    }
+  },
+  {
+    "id": "BlueHawaiian",
+    "reactants": {
+      "CoconutRum": 2,
+      "JuicePineapple": 1,
+      "JuiceLemon": 1,
+      "BlueCuracao": 1
+    },
+    "products": {
+      "BlueHawaiian": 5
+    }
+  },
+  {
+    "id": "CogChamp",
+    "reactants": {
+      "Cognac": 1,
+      "ScrewdriverCocktail": 1,
+      "WeldingFuel": 1
+    },
+    "products": {
+      "CogChamp": 3
+    }
+  },
+  {
+    "id": "BahamaMama",
+    "reactants": {
+      "Ice": 1,
+      "JuiceOrange": 1,
+      "JuicePineapple": 1,
+      "Rum": 1,
+      "CoconutRum": 1,
+      "Grenadine": 1
+    },
+    "products": {
+      "BahamaMama": 6
+    }
+  },
+  {
+    "id": "Barefoot",
+    "reactants": {
+      "Cream": 1,
+      "Vermouth": 1,
+      "JuiceBerry": 1
+    },
+    "products": {
+      "Barefoot": 3
+    }
+  },
+  {
+    "id": "BananaHonk",
+    "reactants": {
+      "Cream": 1,
+      "JuiceBanana": 1,
+      "Sugar": 1
+    },
+    "products": {
+      "BananaHonk": 3
+    }
+  },
+  {
+    "id": "BeepskySmash",
+    "reactants": {
+      "Iron": 1,
+      "JuiceLime": 1,
+      "Whiskey": 1
+    },
+    "products": {
+      "BeepskySmash": 2
+    }
+  },
+  {
+    "id": "BlackRussian",
+    "reactants": {
+      "CoffeeLiqueur": 1,
+      "Vodka": 2
+    },
+    "products": {
+      "BlackRussian": 3
+    }
+  },
+  {
+    "id": "BloodyMary",
+    "reactants": {
+      "JuiceLime": 1,
+      "JuiceTomato": 3,
+      "Vodka": 2
+    },
+    "products": {
+      "BloodyMary": 6
+    }
+  },
+  {
+    "id": "Booger",
+    "reactants": {
+      "Cream": 2,
+      "JuiceBanana": 1,
+      "JuiceWatermelon": 1,
+      "Rum": 1
+    },
+    "products": {
+      "Booger": 5
+    }
+  },
+  {
+    "id": "BraveBull",
+    "reactants": {
+      "CoffeeLiqueur": 1,
+      "Tequila": 2
+    },
+    "products": {
+      "BraveBull": 3
+    }
+  },
+  {
+    "id": "Bronx",
+    "reactants": {
+      "Gin": 1,
+      "Vermouth": 1,
+      "JuiceOrange": 1
+    },
+    "products": {
+      "Bronx": 3
+    }
+  },
+  {
+    "id": "CafeLatte",
+    "reactants": {
+      "Coffee": 1,
+      "Milk": 1
+    },
+    "products": {
+      "CafeLatte": 2
+    }
+  },
+  {
+    "id": "CoconutRum",
+    "reactants": {
+      "Rum": 2,
+      "CoconutWater": 1
+    },
+    "products": {
+      "CoconutRum": 3
+    }
+  },
+  {
+    "id": "Cosmopolitan",
+    "reactants": {
+      "Vodka": 1,
+      "JuiceBerry": 1,
+      "JuiceLime": 1
+    },
+    "products": {
+      "Cosmopolitan": 3
+    }
+  },
+  {
+    "id": "CreamOfCoconut",
+    "reactants": {
+      "CoconutWater": 1,
+      "Sugar": 1,
+      "Milk": 1
+    },
+    "products": {
+      "CreamOfCoconut": 3
+    }
+  },
+  {
+    "id": "CrushDepth",
+    "reactants": {
+      "RootBeerFloat": 1,
+      "Rum": 1
+    },
+    "products": {
+      "CrushDepth": 2
+    }
+  },
+  {
+    "id": "CubaLibre",
+    "reactants": {
+      "Cola": 2,
+      "Rum": 1
+    },
+    "products": {
+      "CubaLibre": 3
+    }
+  },
+  {
+    "id": "DarkandStormy",
+    "reactants": {
+      "SolDry": 1,
+      "Rum": 1
+    },
+    "products": {
+      "DarkandStormy": 2
+    }
+  },
+  {
+    "id": "DemonsBlood",
+    "reactants": {
+      "Rum": 1,
+      "Blood": 1,
+      "DrGibb": 1,
+      "SpaceMountainWind": 1
+    },
+    "products": {
+      "DemonsBlood": 4
+    }
+  },
+  {
+    "id": "DevilsKiss",
+    "reactants": {
+      "Rum": 1,
+      "Blood": 1,
+      "CoffeeLiqueur": 1
+    },
+    "products": {
+      "DevilsKiss": 3
+    }
+  },
+  {
+    "id": "DoctorsDelight",
+    "reactants": {
+      "Cream": 2,
+      "JuiceLime": 1,
+      "JuiceOrange": 1,
+      "JuiceTomato": 1,
+      "Tricordrazine": 1
+    },
+    "products": {
+      "DoctorsDelight": 6
+    }
+  },
+  {
+    "id": "DriestMartini",
+    "reactants": {
+      "Gin": 1,
+      "Nothing": 1
+    },
+    "products": {
+      "DriestMartini": 2
+    }
+  },
+  {
+    "id": "Eggnog",
+    "reactants": {
+      "Egg": 1,
+      "Milk": 4,
+      "Rum": 5
+    },
+    "products": {
+      "Eggnog": 10
+    }
+  },
+  {
+    "id": "ElectricShark",
+    "reactants": {
+      "DarkandStormy": 4,
+      "BlueCuracao": 1,
+      "JuicePineapple": 1
+    },
+    "products": {
+      "ElectricShark": 6
+    }
+  },
+  {
+    "id": "ErikaSurprise",
+    "reactants": {
+      "Ale": 2,
+      "Ice": 1,
+      "JuiceBanana": 1,
+      "JuiceLime": 1,
+      "Whiskey": 1
+    },
+    "products": {
+      "ErikaSurprise": 6
+    }
+  },
+  {
+    "id": "EthanolBreakdown",
+    "reactants": {
+      "Ethanol": 9
+    },
+    "products": {
+      "Hydrogen": 6,
+      "Carbon": 2,
+      "Oxygen": 1
+    }
+  },
+  {
+    "id": "FourteenLoko",
+    "reactants": {
+      "Coffee": 1,
+      "JuiceLime": 1,
+      "Vodka": 1
+    },
+    "products": {
+      "FourteenLoko": 3
+    }
+  },
+  {
+    "id": "GargleBlaster",
+    "reactants": {
+      "Cognac": 1,
+      "Gin": 1,
+      "JuiceLime": 1,
+      "Vodka": 1,
+      "Whiskey": 1
+    },
+    "products": {
+      "GargleBlaster": 5
+    }
+  },
+  {
+    "id": "GinFizz",
+    "reactants": {
+      "Gin": 1,
+      "JuiceLime": 1,
+      "SodaWater": 1
+    },
+    "products": {
+      "GinFizz": 3
+    }
+  },
+  {
+    "id": "GinTonic",
+    "reactants": {
+      "Gin": 1,
+      "TonicWater": 2
+    },
+    "products": {
+      "GinTonic": 3
+    }
+  },
+  {
+    "id": "Gildlager",
+    "reactants": {
+      "Gold": 1,
+      "Vodka": 10
+    },
+    "products": {
+      "Gildlager": 10
+    }
+  },
+  {
+    "id": "Grog",
+    "reactants": {
+      "Rum": 1,
+      "Water": 2,
+      "Sugar": 1
+    },
+    "products": {
+      "Grog": 4
+    }
+  },
+  {
+    "id": "HippiesDelight",
+    "reactants": {
+      "GargleBlaster": 1,
+      "THC": 1
+    },
+    "products": {
+      "HippiesDelight": 2
+    }
+  },
+  {
+    "id": "Hooch",
+    "reactants": {
+      "Ethanol": 2,
+      "WeldingFuel": 1,
+      "Enzyme": 1
+    },
+    "products": {
+      "Hooch": 3
+    }
+  },
+  {
+    "id": "HotCocoa",
+    "reactants": {
+      "Water": 1,
+      "CocoaPowder": 1
+    },
+    "products": {
+      "HotCocoa": 2
+    },
+    "minTemp": 350
+  },
+  {
+    "id": "IceCream",
+    "reactants": {
+      "Cream": 1,
+      "Ice": 1,
+      "Sugar": 1
+    },
+    "products": {
+      "IceCream": 3
+    }
+  },
+  {
+    "id": "IcedBeer",
+    "reactants": {
+      "Beer": 5,
+      "Ice": 1
+    },
+    "products": {
+      "IcedBeer": 5
+    }
+  },
+  {
+    "id": "IcedBeerAlt",
+    "reactants": {
+      "Beer": 10,
+      "FrostOil": 1
+    },
+    "products": {
+      "IcedBeer": 10
+    }
+  },
+  {
+    "id": "IcedCoffee",
+    "reactants": {
+      "Coffee": 2,
+      "Ice": 1
+    },
+    "products": {
+      "IcedCoffee": 3
+    }
+  },
+  {
+    "id": "IcedGreenTea",
+    "reactants": {
+      "GreenTea": 2,
+      "Ice": 1
+    },
+    "products": {
+      "IcedGreenTea": 3
+    }
+  },
+  {
+    "id": "IcedTea",
+    "reactants": {
+      "Ice": 1,
+      "Tea": 2
+    },
+    "products": {
+      "IcedTea": 3
+    }
+  },
+  {
+    "id": "IrishBool",
+    "reactants": {
+      "EnergyDrink": 1,
+      "IrishSlammer": 1
+    },
+    "products": {
+      "IrishBool": 2
+    }
+  },
+  {
+    "id": "IrishSlammer",
+    "reactants": {
+      "Ale": 1,
+      "IrishCream": 1
+    },
+    "products": {
+      "IrishSlammer": 2
+    }
+  },
+  {
+    "id": "IrishCoffee",
+    "reactants": {
+      "Coffee": 1,
+      "IrishCream": 1
+    },
+    "products": {
+      "IrishCoffee": 2
+    }
+  },
+  {
+    "id": "IrishCream",
+    "reactants": {
+      "Cream": 1,
+      "Whiskey": 2
+    },
+    "products": {
+      "IrishCream": 3
+    }
+  },
+  {
+    "id": "JackRose",
+    "reactants": {
+      "JuiceApple": 1,
+      "Cognac": 1,
+      "Grenadine": 1,
+      "JuiceLemon": 1
+    },
+    "products": {
+      "JackRose": 4
+    }
+  },
+  {
+    "id": "JungleBird",
+    "reactants": {
+      "Rum": 3,
+      "JuicePineapple": 1,
+      "Grenadine": 1,
+      "JuiceLime": 1
+    },
+    "products": {
+      "JungleBird": 6
+    }
+  },
+  {
+    "id": "Kalimotxo",
+    "reactants": {
+      "Cola": 1,
+      "Wine": 1
+    },
+    "products": {
+      "Kalimotxo": 2
+    }
+  },
+  {
+    "id": "OrangeLimeSoda",
+    "reactants": {
+      "JuiceLime": 1,
+      "JuiceOrange": 1,
+      "SodaWater": 1
+    },
+    "products": {
+      "OrangeLimeSoda": 3
+    }
+  },
+  {
+    "id": "Lemonade",
+    "reactants": {
+      "JuiceLemon": 1,
+      "Sugar": 1,
+      "Water": 1
+    },
+    "products": {
+      "Lemonade": 3
+    }
+  },
+  {
+    "id": "LemonLime",
+    "reactants": {
+      "JuiceLemon": 1,
+      "JuiceLime": 1,
+      "SodaWater": 1
+    },
+    "products": {
+      "LemonLime": 3
+    }
+  },
+  {
+    "id": "LongIslandIcedTea",
+    "reactants": {
+      "CubaLibre": 3,
+      "Gin": 1,
+      "Tequila": 1,
+      "Vodka": 1
+    },
+    "products": {
+      "LongIslandIcedTea": 6
+    }
+  },
+  {
+    "id": "Manhattan",
+    "reactants": {
+      "Whiskey": 2,
+      "Vermouth": 1
+    },
+    "products": {
+      "Manhattan": 3
+    }
+  },
+  {
+    "id": "ManhattanProject",
+    "reactants": {
+      "Whiskey": 10,
+      "Uranium": 1
+    },
+    "products": {
+      "ManhattanProject": 10
+    }
+  },
+  {
+    "id": "ManlyDorf",
+    "reactants": {
+      "Ale": 2,
+      "Beer": 1
+    },
+    "products": {
+      "ManlyDorf": 3
+    }
+  },
+  {
+    "id": "Margarita",
+    "reactants": {
+      "Tequila": 2,
+      "JuiceLime": 1
+    },
+    "products": {
+      "Margarita": 3
+    }
+  },
+  {
+    "id": "Martini",
+    "reactants": {
+      "Gin": 2,
+      "Vermouth": 1
+    },
+    "products": {
+      "Martini": 3
+    }
+  },
+  {
+    "id": "Mead",
+    "reactants": {
+      "Sugar": 1,
+      "Enzyme": 1
+    },
+    "products": {
+      "Mead": 2
+    }
+  },
+  {
+    "id": "Mojito",
+    "reactants": {
+      "JuiceLime": 1,
+      "Rum": 1,
+      "SodaWater": 1,
+      "Sugar": 1
+    },
+    "products": {
+      "Mojito": 4
+    }
+  },
+  {
+    "id": "MonkeyBusiness",
+    "reactants": {
+      "Gin": 1,
+      "JuiceOrange": 1,
+      "Grenadine": 1,
+      "Absinthe": 1
+    },
+    "products": {
+      "MonkeyBusiness": 4
+    }
+  },
+  {
+    "id": "Moonshine",
+    "reactants": {
+      "Tequila": 1,
+      "Vodka": 1,
+      "Whiskey": 1
+    },
+    "products": {
+      "Moonshine": 3
+    }
+  },
+  {
+    "id": "NuclearCola",
+    "reactants": {
+      "Cola": 5,
+      "Uranium": 1
+    },
+    "products": {
+      "NuclearCola": 5
+    }
+  },
+  {
+    "id": "NuclearColaBreakdown",
+    "reactants": {
+      "NuclearCola": 10
+    },
+    "products": {
+      "Ipecac": 2,
+      "Water": 2,
+      "Sugar": 2,
+      "Uranium": 1
+    }
+  },
+  {
+    "id": "Patron",
+    "reactants": {
+      "Tequila": 10,
+      "Silver": 1
+    },
+    "products": {
+      "Patron": 10
+    }
+  },
+  {
+    "id": "Painkiller",
+    "reactants": {
+      "JuicePineapple": 3,
+      "CoconutRum": 1,
+      "JuiceOrange": 1,
+      "CreamOfCoconut": 1
+    },
+    "products": {
+      "Painkiller": 6
+    }
+  },
+  {
+    "id": "PinaColada",
+    "reactants": {
+      "JuicePineapple": 3,
+      "JuiceLime": 1,
+      "Rum": 1,
+      "CreamOfCoconut": 1
+    },
+    "products": {
+      "PinaColada": 6
+    }
+  },
+  {
+    "id": "Posca",
+    "reactants": {
+      "TableSalt": 1,
+      "Vinegar": 1,
+      "Water": 1
+    },
+    "products": {
+      "Posca": 3
+    }
+  },
+  {
+    "id": "Radler",
+    "reactants": {
+      "Lemonade": 1,
+      "Beer": 1
+    },
+    "products": {
+      "Radler": 2
+    }
+  },
+  {
+    "id": "RedMead",
+    "reactants": {
+      "Mead": 1,
+      "Blood": 1
+    },
+    "products": {
+      "RedMead": 2
+    }
+  },
+  {
+    "id": "Rewriter",
+    "reactants": {
+      "Coffee": 1,
+      "SpaceMountainWind": 1
+    },
+    "products": {
+      "Rewriter": 2
+    }
+  },
+  {
+    "id": "RootBeerFloat",
+    "reactants": {
+      "RootBeer": 2,
+      "IceCream": 1
+    },
+    "products": {
+      "RootBeerFloat": 3
+    }
+  },
+  {
+    "id": "RoyRogers",
+    "reactants": {
+      "Cola": 2,
+      "Grenadine": 1
+    },
+    "products": {
+      "RoyRogers": 3
+    }
+  },
+  {
+    "id": "Rubberneck",
+    "reactants": {
+      "EnergyDrink": 2,
+      "Moonshine": 1,
+      "Sugar": 1
+    },
+    "products": {
+      "Rubberneck": 4
+    }
+  },
+  {
+    "id": "Sbiten",
+    "reactants": {
+      "Vodka": 1,
+      "CapsaicinOil": 1
+    },
+    "products": {
+      "Sbiten": 2
+    }
+  },
+  {
+    "id": "ScrewdriverCocktail",
+    "reactants": {
+      "JuiceOrange": 2,
+      "Vodka": 1
+    },
+    "products": {
+      "ScrewdriverCocktail": 3
+    }
+  },
+  {
+    "id": "ShirleyTemple",
+    "reactants": {
+      "SolDry": 2,
+      "Grenadine": 1
+    },
+    "products": {
+      "ShirleyTemple": 3
+    }
+  },
+  {
+    "id": "Silencer",
+    "reactants": {
+      "Nothing": 1,
+      "Cream": 1,
+      "Sugar": 1
+    },
+    "products": {
+      "Silencer": 3
+    }
+  },
+  {
+    "id": "SnowWhite",
+    "reactants": {
+      "Beer": 1,
+      "LemonLime": 1
+    },
+    "products": {
+      "SnowWhite": 2
+    }
+  },
+  {
+    "id": "SodaWater",
+    "reactants": {
+      "Water": 5,
+      "CarbonDioxide": 1
+    },
+    "products": {
+      "SodaWater": 6
+    }
+  },
+  {
+    "id": "SoyLatte",
+    "reactants": {
+      "Coffee": 1,
+      "MilkSoy": 1
+    },
+    "products": {
+      "SoyLatte": 2
+    }
+  },
+  {
+    "id": "Starkist",
+    "reactants": {
+      "Cola": 1,
+      "JuiceOrange": 2
+    },
+    "products": {
+      "Starkist": 3
+    }
+  },
+  {
+    "id": "SuiDream",
+    "reactants": {
+      "SpaceUp": 1,
+      "BlueCuracao": 1,
+      "MelonLiquor": 1
+    },
+    "products": {
+      "SuiDream": 3
+    }
+  },
+  {
+    "id": "SyndicateBomb",
+    "reactants": {
+      "Beer": 1,
+      "WhiskeyCola": 1
+    },
+    "products": {
+      "SyndicateBomb": 2
+    }
+  },
+  {
+    "id": "Tea",
+    "reactants": {
+      "TeaPowder": 1,
+      "Water": 5
+    },
+    "products": {
+      "Tea": 6
+    }
+  },
+  {
+    "id": "TequilaSunrise",
+    "reactants": {
+      "JuiceOrange": 1,
+      "Tequila": 2
+    },
+    "products": {
+      "TequilaSunrise": 3
+    }
+  },
+  {
+    "id": "ThreeMileIsland",
+    "reactants": {
+      "LongIslandIcedTea": 10,
+      "Uranium": 1
+    },
+    "products": {
+      "ThreeMileIsland": 10
+    }
+  },
+  {
+    "id": "Tortuga",
+    "reactants": {
+      "IcedTea": 1,
+      "Sugar": 1
+    },
+    "products": {
+      "Tortuga": 2
+    }
+  },
+  {
+    "id": "ToxinsSpecial",
+    "reactants": {
+      "Rum": 2,
+      "Vermouth": 1,
+      "Plasma": 2
+    },
+    "products": {
+      "ToxinsSpecial": 5
+    }
+  },
+  {
+    "id": "Vampiro",
+    "reactants": {
+      "TequilaSunrise": 3,
+      "BloodyMary": 1,
+      "Hotsauce": 1,
+      "LemonLime": 1
+    },
+    "products": {
+      "Vampiro": 6
+    }
+  },
+  {
+    "id": "VodkaMartini",
+    "reactants": {
+      "Vermouth": 1,
+      "Vodka": 2
+    },
+    "products": {
+      "VodkaMartini": 3
+    }
+  },
+  {
+    "id": "VodkaRedBool",
+    "reactants": {
+      "Vodka": 1,
+      "EnergyDrink": 2
+    },
+    "products": {
+      "VodkaRedBool": 3
+    }
+  },
+  {
+    "id": "VodkaTonic",
+    "reactants": {
+      "Vodka": 1,
+      "TonicWater": 2
+    },
+    "products": {
+      "VodkaTonic": 3
+    }
+  },
+  {
+    "id": "WhiskeyCola",
+    "reactants": {
+      "Cola": 2,
+      "Whiskey": 1
+    },
+    "products": {
+      "WhiskeyCola": 3
+    }
+  },
+  {
+    "id": "WatermelonWakeup",
+    "reactants": {
+      "JuiceWatermelon": 1,
+      "Whiskey": 1,
+      "EnergyDrink": 1
+    },
+    "products": {
+      "WatermelonWakeup": 3
+    }
+  },
+  {
+    "id": "WhiteRussian",
+    "reactants": {
+      "BlackRussian": 1,
+      "Cream": 1
+    },
+    "products": {
+      "WhiteRussian": 2
+    }
+  },
+  {
+    "id": "WhiskeySoda",
+    "reactants": {
+      "SodaWater": 2,
+      "Whiskey": 1
+    },
+    "products": {
+      "WhiskeySoda": 3
+    }
+  },
+  {
+    "id": "XenoBasher",
+    "reactants": {
+      "ManlyDorf": 2,
+      "EnergyDrink": 1
+    },
+    "products": {
+      "XenoBasher": 3
+    }
+  },
+  {
+    "id": "HotRamen",
+    "reactants": {
+      "DryRamen": 5,
+      "Water": 2
+    },
+    "products": {
+      "HotRamen": 6
+    },
+    "minTemp": 323.15
+  },
+  {
+    "id": "Pilk",
+    "reactants": {
+      "Cola": 1,
+      "Milk": 1
+    },
+    "products": {
+      "Pilk": 2
+    }
+  },
+  {
+    "id": "TheMartinez",
+    "reactants": {
+      "Cola": 2,
+      "Vodka": 2,
+      "Ice": 1,
+      "JuiceLemon": 1
+    },
+    "products": {
+      "TheMartinez": 6
+    }
+  },
+  {
+    "id": "Vodka",
+    "reactants": {
+      "Ethanol": 1,
+      "Water": 1
+    },
+    "products": {
+      "Vodka": 2
+    }
+  },
+  {
+    "id": "WaterBreakdown",
+    "reactants": {
+      "Water": 3
+    },
+    "products": {
+      "Hydrogen": 2,
+      "Oxygen": 1
+    }
+  },
+  {
+    "id": "WhiteGilgamesh",
+    "reactants": {
+      "Beer": 2,
+      "Milk": 1
+    },
+    "products": {
+      "WhiteGilgamesh": 3
+    }
+  },
+  {
+    "id": "Cola",
+    "reactants": {
+      "Ipecac": 1,
+      "Oxygen": 1,
+      "Water": 1,
+      "Sugar": 1
+    },
+    "products": {
+      "Cola": 4
+    }
+  },
+  {
+    "id": "Caipirinha",
+    "reactants": {
+      "Rum": 1,
+      "JuiceLime": 1,
+      "Sugar": 1,
+      "Ice": 1
+    },
+    "products": {
+      "Caipirinha": 4
+    }
+  },
+  {
+    "id": "Daiquiri",
+    "reactants": {
+      "Rum": 4,
+      "Sugar": 1,
+      "JuiceLime": 1
+    },
+    "products": {
+      "Daiquiri": 6
+    }
+  },
+  {
+    "id": "DeathInTheAfternoon",
+    "reactants": {
+      "Absinthe": 2,
+      "Champagne": 1
+    },
+    "products": {
+      "DeathInTheAfternoon": 3
+    }
+  },
+  {
+    "id": "Empress75",
+    "reactants": {
+      "Champagne": 2,
+      "Gin": 2,
+      "JuiceLime": 1,
+      "Grenadine": 1
+    },
+    "products": {
+      "Empress75": 6
+    }
+  },
+  {
+    "id": "EspressoMartini",
+    "reactants": {
+      "BlackRussian": 1,
+      "Coffee": 1
+    },
+    "products": {
+      "EspressoMartini": 2
+    }
+  },
+  {
+    "id": "Mayojito",
+    "reactants": {
+      "Mojito": 1,
+      "Mayo": 1
+    },
+    "products": {
+      "Mayojito": 2
+    }
+  },
+  {
+    "id": "Mimeosa",
+    "reactants": {
+      "Mimosa": 2,
+      "Nothing": 1
+    },
+    "products": {
+      "Mimeosa": 3
+    }
+  },
+  {
+    "id": "Mimosa",
+    "reactants": {
+      "JuiceOrange": 2,
+      "Champagne": 1
+    },
+    "products": {
+      "Mimosa": 3
+    }
+  },
+  {
+    "id": "MoscowMule",
+    "reactants": {
+      "Vodka": 4,
+      "JuiceLime": 1,
+      "SolDry": 1
+    },
+    "products": {
+      "MoscowMule": 6
+    }
+  },
+  {
+    "id": "TheSunAlsoRises",
+    "reactants": {
+      "Absinthe": 1,
+      "Daiquiri": 5
+    },
+    "products": {
+      "TheSunAlsoRises": 6
+    }
+  },
+  {
+    "id": "WhiskeySour",
+    "reactants": {
+      "Whiskey": 2,
+      "Sugar": 1,
+      "JuiceLemon": 2,
+      "Egg": 1
+    },
+    "products": {
+      "WhiskeySour": 6
+    }
+  },
+  {
+    "id": "ZombieCocktail",
+    "reactants": {
+      "Rum": 2,
+      "Grenadine": 1,
+      "ZombieBlood": 1
+    },
+    "products": {
+      "ZombieCocktail": 4
+    }
+  },
+  {
+    "id": "BacchusBlessing",
+    "reactants": {
+      "Hooch": 1,
+      "Absinthe": 1,
+      "ManlyDorf": 1,
+      "SyndicateBomb": 1
+    },
+    "products": {
+      "BacchusBlessing": 4
+    }
+  },
+  {
+    "id": "Curdling",
+    "reactants": {
+      "Milk": 40,
+      "Enzyme": 5
+    },
+    "products": {
+      "Enzyme": 5
+    }
+  },
+  {
+    "id": "ChevreCurdling",
+    "reactants": {
+      "MilkGoat": 10,
+      "Enzyme": 5
+    },
+    "products": {
+      "Enzyme": 5
+    }
+  },
+  {
+    "id": "CreateDough",
+    "reactants": {
+      "Flour": 15,
+      "Water": 10
+    },
+    "products": {}
+  },
+  {
+    "id": "CreateCornmealDough",
+    "reactants": {
+      "Cornmeal": 15,
+      "Milk": 10,
+      "Egg": 6
+    },
+    "products": {}
+  },
+  {
+    "id": "CreateTortillaDough",
+    "reactants": {
+      "Cornmeal": 15,
+      "Water": 10
+    },
+    "products": {}
+  },
+  {
+    "id": "CreateDoughCotton",
+    "reactants": {
+      "Fiber": 10,
+      "Flour": 5,
+      "Water": 10
+    },
+    "products": {}
+  },
+  {
+    "id": "CreateCakeBatter",
+    "reactants": {
+      "Flour": 15,
+      "Egg": 12,
+      "Sugar": 5,
+      "Milk": 5
+    },
+    "products": {}
+  },
+  {
+    "id": "CreateButter",
+    "reactants": {
+      "Milk": 15,
+      "TableSalt": 5
+    },
+    "products": {
+      "TableSalt": 5
+    }
+  },
+  {
+    "id": "CreatePieDough",
+    "reactants": {
+      "Flour": 15,
+      "Egg": 12,
+      "TableSalt": 5
+    },
+    "products": {}
+  },
+  {
+    "id": "CreateVeganCakeBatter",
+    "reactants": {
+      "Flour": 15,
+      "MilkSoy": 15,
+      "Sugar": 5
+    },
+    "products": {}
+  },
+  {
+    "id": "CreateTofu",
+    "reactants": {
+      "MilkSoy": 30,
+      "Enzyme": 5
+    },
+    "products": {
+      "Enzyme": 5
+    }
+  },
+  {
+    "id": "CreateMeatball",
+    "reactants": {
+      "UncookedAnimalProteins": 5,
+      "Flour": 5,
+      "Egg": 6
+    },
+    "products": {}
+  },
+  {
+    "id": "CreateChocolate",
+    "reactants": {
+      "CocoaPowder": 4,
+      "Milk": 2,
+      "Sugar": 2
+    },
+    "products": {}
+  },
+  {
+    "id": "CookingKetchup",
+    "reactants": {
+      "JuiceTomato": 2,
+      "Sugar": 1
+    },
+    "products": {
+      "Ketchup": 3
+    }
+  },
+  {
+    "id": "CookingMayoVinegar",
+    "reactants": {
+      "Vinegar": 5,
+      "Oil": 5,
+      "Egg": 6
+    },
+    "products": {
+      "Mayo": 15
+    }
+  },
+  {
+    "id": "CookingMayoLemon",
+    "reactants": {
+      "JuiceLemon": 5,
+      "Oil": 5,
+      "Egg": 6
+    },
+    "products": {
+      "Mayo": 15
+    }
+  },
+  {
+    "id": "CookingMustard",
+    "reactants": {
+      "Bleach": 1,
+      "Ammonia": 1
+    },
+    "products": {
+      "Mustard": 2
+    }
+  },
+  {
+    "id": "CookingKetchunaise",
+    "reactants": {
+      "Ketchup": 1,
+      "Mayo": 1
+    },
+    "products": {
+      "Ketchunaise": 2
+    }
+  },
+  {
+    "id": "CookingBbqSauce",
+    "reactants": {
+      "Ketchup": 1,
+      "Vinegar": 1,
+      "Sugar": 1
+    },
+    "products": {
+      "BbqSauce": 3
+    }
+  },
+  {
+    "id": "CookingHotsauce",
+    "reactants": {
+      "JuiceTomato": 1,
+      "TableSalt": 1,
+      "CapsaicinOil": 1
+    },
+    "products": {
+      "Hotsauce": 3
+    }
+  },
+  {
+    "id": "CookingColdsauce",
+    "reactants": {
+      "JuiceTomato": 1,
+      "TableSalt": 1,
+      "FrostOil": 1
+    },
+    "products": {
+      "Coldsauce": 3
+    }
+  },
+  {
+    "id": "CookingVinegar",
+    "reactants": {
+      "Ethanol": 1,
+      "Oxygen": 1
+    },
+    "products": {
+      "Vinegar": 2
+    }
+  },
+  {
+    "id": "CookingSoysauce",
+    "reactants": {
+      "MilkSoy": 2,
+      "SulfuricAcid": 1
+    },
+    "products": {
+      "Soysauce": 3
+    }
+  },
+  {
+    "id": "CookingVinaigrette",
+    "reactants": {
+      "Vinegar": 1,
+      "OilOlive": 1,
+      "Blackpepper": 1
+    },
+    "products": {
+      "Vinaigrette": 3
+    }
+  },
+  {
+    "id": "BananaBreakdown",
+    "reactants": {
+      "JuiceBanana": 10
+    },
+    "products": {
+      "Sugar": 5,
+      "Potassium": 5
+    }
+  },
+  {
+    "id": "OilBreakdown",
+    "reactants": {
+      "Oil": 10
+    },
+    "products": {
+      "Fat": 6,
+      "Water": 3,
+      "Protein": 1
+    }
+  },
+  {
+    "id": "AllicinBreakdown",
+    "reactants": {
+      "Allicin": 4
+    },
+    "products": {
+      "Sulfur": 2,
+      "Carbon": 1,
+      "Water": 1
+    }
+  },
+  {
+    "id": "NutrimentBreakdown",
+    "reactants": {
+      "Nutriment": 5
+    },
+    "products": {
+      "Water": 2,
+      "Carbon": 2,
+      "Sugar": 1
+    }
+  },
+  {
+    "id": "FatBreakdown",
+    "reactants": {
+      "Fat": 15
+    },
+    "products": {
+      "Carbon": 5,
+      "Hydrogen": 10,
+      "Oxygen": 1
+    }
+  },
+  {
+    "id": "UncookedAnimalProteinBreakdown",
+    "reactants": {
+      "UncookedAnimalProteins": 10
+    },
+    "products": {
+      "Carbon": 2,
+      "Hydrogen": 4,
+      "Phosphorus": 3,
+      "Oxygen": 1
+    }
+  },
+  {
+    "id": "ProteinBreakdown",
+    "reactants": {
+      "Protein": 10
+    },
+    "products": {
+      "Carbon": 2,
+      "Hydrogen": 4,
+      "Phosphorus": 3,
+      "Oxygen": 1
+    }
+  },
+  {
+    "id": "VitaminBreakdown",
+    "reactants": {
+      "Vitamin": 4
+    },
+    "products": {
+      "Carbon": 1,
+      "Water": 1,
+      "Nitrogen": 2
+    }
+  },
+  {
+    "id": "ReduceMilk",
+    "reactants": {
+      "Milk": 2
+    },
+    "products": {
+      "Cream": 1
+    },
+    "minTemp": 320
+  },
+  {
+    "id": "Carpetium",
+    "reactants": {
+      "SpaceDrugs": 1,
+      "Fiber": 2
+    },
+    "products": {
+      "Carpetium": 3
+    }
+  },
+  {
+    "id": "BuzzochloricBees",
+    "reactants": {
+      "Saxoite": 1,
+      "Fiber": 1,
+      "GroundBee": 1,
+      "Chlorine": 1,
+      "UnstableMutagen": 1
+    },
+    "products": {
+      "BuzzochloricBees": 3
+    }
+  },
+  {
+    "id": "Meatification",
+    "reactants": {
+      "Fat": 25,
+      "Nutriment": 5,
+      "Blood": 10,
+      "Carbon": 10
+    },
+    "products": {}
+  },
+  {
+    "id": "SpaceGlue",
+    "reactants": {
+      "SpaceLube": 1,
+      "Slime": 1
+    },
+    "products": {
+      "SpaceGlue": 2
+    },
+    "minTemp": 370
+  },
+  {
+    "id": "Licoxide",
+    "reactants": {
+      "Lithium": 1,
+      "Zinc": 1
+    },
+    "products": {
+      "Licoxide": 1
+    }
+  },
+  {
+    "id": "PlasticSheet",
+    "reactants": {
+      "Oil": 5,
+      "Ash": 3,
+      "SulfuricAcid": 2
+    },
+    "products": {},
+    "minTemp": 374
+  },
+  {
+    "id": "FlashFreezeIce",
+    "reactants": {
+      "Fresium": 1,
+      "Water": 1
+    },
+    "products": {
+      "Ice": 5
+    }
+  },
+  {
+    "id": "Fresium",
+    "reactants": {
+      "Frezon": 3,
+      "Plasma": 1,
+      "Nitrogen": 2,
+      "Cryoxadone": 0.22,
+      "TableSalt": 0.08,
+      "Water": 1.5
+    },
+    "products": {
+      "Fresium": 5,
+      "Plasma": 1
+    }
+  },
+  {
+    "id": "FiberBreakdown",
+    "reactants": {
+      "Fiber": 5,
+      "Water": 10
+    },
+    "products": {
+      "Carbon": 3,
+      "Sugar": 2,
+      "Water": 10
+    }
+  },
+  {
+    "id": "Laughter",
+    "reactants": {
+      "JuiceBanana": 1,
+      "Sugar": 1
+    },
+    "products": {
+      "Laughter": 2
+    }
+  },
+  {
+    "id": "CreateCrystals",
+    "reactants": {
+      "Sugar": 15,
+      "Water": 15,
+      "Ethanol": 5
+    },
+    "products": {},
+    "minTemp": 374
+  },
+  {
+    "id": "Gunpowder",
+    "reactants": {
+      "Potassium": 6,
+      "Sulfur": 2,
+      "Charcoal": 2
+    },
+    "products": {},
+    "minTemp": 374
+  },
+  {
+    "id": "SolidifyGold",
+    "reactants": {
+      "Gold": 10,
+      "FrostOil": 5
+    },
+    "products": {}
+  },
+  {
+    "id": "SolidifySilver",
+    "reactants": {
+      "Silver": 10,
+      "FrostOil": 5
+    },
+    "products": {}
+  },
+  {
+    "id": "WehHewExplosion",
+    "reactants": {
+      "JuiceThatMakesYouWeh": 1,
+      "JuiceThatMakesYouHew": 1
+    },
+    "products": {}
+  },
+  {
+    "id": "CorgiJuice",
+    "reactants": {
+      "UncookedAnimalProteins": 1,
+      "JuiceThatMakesYouWeh": 1,
+      "Happiness": 1
+    },
+    "products": {
+      "CorgiJuice": 2
+    }
+  },
+  {
+    "id": "Felinase",
+    "reactants": {
+      "Haloperidol": 3,
+      "Psicodine": 2,
+      "CarpoToxin": 2,
+      "Enzyme": 1
+    },
+    "products": {
+      "Felinase": 2
+    }
+  },
+  {
+    "id": "Caninase",
+    "reactants": {
+      "Haloperidol": 3,
+      "Psicodine": 2,
+      "Happiness": 2,
+      "Enzyme": 1
+    },
+    "products": {
+      "Caninase": 2
+    }
+  },
+  {
+    "id": "CaninaseFelinaseReaction",
+    "reactants": {
+      "Caninase": 1,
+      "Felinase": 1
+    },
+    "products": {
+      "Razorium": 2
+    }
+  },
+  {
+    "id": "CarbonDioxideBreakdown",
+    "reactants": {
+      "CarbonDioxide": 3
+    },
+    "products": {
+      "Carbon": 1,
+      "Oxygen": 2
+    }
+  },
+  {
+    "id": "NitrousOxideBreakdown",
+    "reactants": {
+      "NitrousOxide": 3
+    },
+    "products": {
+      "Nitrogen": 2,
+      "Oxygen": 1
+    }
+  },
+  {
+    "id": "Dylovene",
+    "reactants": {
+      "Silicon": 1,
+      "Nitrogen": 1,
+      "Potassium": 1
+    },
+    "products": {
+      "Dylovene": 3
+    }
+  },
+  {
+    "id": "Ethylredoxrazine",
+    "reactants": {
+      "Oxygen": 1,
+      "Dylovene": 1,
+      "Carbon": 1
+    },
+    "products": {
+      "Ethylredoxrazine": 3
+    }
+  },
+  {
+    "id": "Cryptobiolin",
+    "reactants": {
+      "Potassium": 1,
+      "Oxygen": 1,
+      "Sugar": 1
+    },
+    "products": {
+      "Cryptobiolin": 3
+    }
+  },
+  {
+    "id": "Arithrazine",
+    "reactants": {
+      "Hyronalin": 1,
+      "Hydrogen": 1
+    },
+    "products": {
+      "Arithrazine": 2
+    }
+  },
+  {
+    "id": "Bicaridine",
+    "reactants": {
+      "Inaprovaline": 1,
+      "Carbon": 1
+    },
+    "products": {
+      "Bicaridine": 2
+    }
+  },
+  {
+    "id": "Cryoxadone",
+    "reactants": {
+      "Dexalin": 1,
+      "Water": 1,
+      "Oxygen": 1
+    },
+    "products": {
+      "Cryoxadone": 3
+    }
+  },
+  {
+    "id": "Doxarubixadone",
+    "reactants": {
+      "Cryoxadone": 1,
+      "UnstableMutagen": 1
+    },
+    "products": {
+      "Doxarubixadone": 2
+    }
+  },
+  {
+    "id": "Epinephrine",
+    "reactants": {
+      "Phenol": 1,
+      "Acetone": 1,
+      "Chlorine": 1,
+      "Hydroxide": 1
+    },
+    "products": {
+      "Epinephrine": 4
+    }
+  },
+  {
+    "id": "Dermaline",
+    "reactants": {
+      "Kelotane": 1,
+      "Oxygen": 1,
+      "Phosphorus": 1
+    },
+    "products": {
+      "Dermaline": 3
+    }
+  },
+  {
+    "id": "Dexalin",
+    "reactants": {
+      "Oxygen": 2,
+      "Plasma": 1
+    },
+    "products": {
+      "Dexalin": 3,
+      "Plasma": 1
+    }
+  },
+  {
+    "id": "DexalinPlus",
+    "reactants": {
+      "Dexalin": 1,
+      "Carbon": 1,
+      "Iron": 1
+    },
+    "products": {
+      "DexalinPlus": 3
+    }
+  },
+  {
+    "id": "Hyronalin",
+    "reactants": {
+      "Radium": 1,
+      "Dylovene": 1
+    },
+    "products": {
+      "Hyronalin": 2
+    }
+  },
+  {
+    "id": "Inaprovaline",
+    "reactants": {
+      "Oxygen": 1,
+      "Carbon": 1,
+      "Sugar": 1
+    },
+    "products": {
+      "Inaprovaline": 3
+    }
+  },
+  {
+    "id": "Ipecac",
+    "reactants": {
+      "Potassium": 1,
+      "Nitrogen": 1,
+      "Ammonia": 1
+    },
+    "products": {
+      "Ipecac": 2
+    }
+  },
+  {
+    "id": "TranexamicAcid",
+    "reactants": {
+      "Inaprovaline": 1,
+      "SulfuricAcid": 1,
+      "Sugar": 1
+    },
+    "products": {
+      "TranexamicAcid": 3
+    }
+  },
+  {
+    "id": "Kelotane",
+    "reactants": {
+      "Silicon": 1,
+      "Carbon": 1
+    },
+    "products": {
+      "Kelotane": 2
+    }
+  },
+  {
+    "id": "Leporazine",
+    "reactants": {
+      "Copper": 1,
+      "Fersilicite": 1,
+      "Plasma": 1
+    },
+    "products": {
+      "Leporazine": 2,
+      "Plasma": 1
+    }
+  },
+  {
+    "id": "Phalanximine",
+    "reactants": {
+      "Hyronalin": 1,
+      "Ethanol": 1,
+      "UnstableMutagen": 1
+    },
+    "products": {
+      "Phalanximine": 3
+    }
+  },
+  {
+    "id": "Ambuzol",
+    "reactants": {
+      "Dylovene": 1,
+      "Ammonia": 1,
+      "ZombieBlood": 2
+    },
+    "products": {
+      "Ambuzol": 4
+    }
+  },
+  {
+    "id": "AmbuzolPlus",
+    "reactants": {
+      "Ambuzol": 5,
+      "Omnizine": 5
+    },
+    "products": {
+      "AmbuzolPlus": 10
+    }
+  },
+  {
+    "id": "Synaptizine",
+    "reactants": {
+      "Lithium": 1,
+      "Sugar": 1,
+      "Water": 1
+    },
+    "products": {
+      "Synaptizine": 3
+    }
+  },
+  {
+    "id": "Tricordrazine",
+    "reactants": {
+      "Inaprovaline": 1,
+      "Dylovene": 1
+    },
+    "products": {
+      "Tricordrazine": 2
+    }
+  },
+  {
+    "id": "HeartbreakerToxin",
+    "reactants": {
+      "DexalinPlus": 1,
+      "MindbreakerToxin": 1
+    },
+    "products": {
+      "HeartbreakerToxin": 2
+    }
+  },
+  {
+    "id": "Impedrezene",
+    "reactants": {
+      "Mercury": 1,
+      "Oxygen": 1,
+      "Water": 1
+    },
+    "products": {
+      "Impedrezene": 1
+    },
+    "minTemp": 370
+  },
+  {
+    "id": "Lexorin",
+    "reactants": {
+      "HeartbreakerToxin": 1,
+      "Plasma": 1,
+      "Vestine": 1
+    },
+    "products": {
+      "Lexorin": 2
+    }
+  },
+  {
+    "id": "Lipozine",
+    "reactants": {
+      "TableSalt": 1,
+      "Ethanol": 1,
+      "Radium": 1
+    },
+    "products": {
+      "Lipozine": 3
+    }
+  },
+  {
+    "id": "Mannitol",
+    "reactants": {
+      "Hydrogen": 1,
+      "Water": 1,
+      "Sugar": 1
+    },
+    "products": {
+      "Mannitol": 3
+    }
+  },
+  {
+    "id": "MindbreakerToxin",
+    "reactants": {
+      "Silicon": 1,
+      "Hydrogen": 1,
+      "Dylovene": 1
+    },
+    "products": {
+      "MindbreakerToxin": 3
+    },
+    "minTemp": 370
+  },
+  {
+    "id": "SpaceDrugs",
+    "reactants": {
+      "Mercury": 1,
+      "Sugar": 1,
+      "Lithium": 1
+    },
+    "products": {
+      "SpaceDrugs": 3
+    }
+  },
+  {
+    "id": "Ultravasculine",
+    "reactants": {
+      "Histamine": 2,
+      "Plasma": 1
+    },
+    "products": {
+      "Ultravasculine": 2,
+      "Plasma": 1
+    }
+  },
+  {
+    "id": "Oculine",
+    "reactants": {
+      "TableSalt": 1,
+      "Blood": 1,
+      "Hydroxide": 2
+    },
+    "products": {
+      "Oculine": 4
+    }
+  },
+  {
+    "id": "Siderlac",
+    "reactants": {
+      "Aloe": 1,
+      "Stellibinin": 1
+    },
+    "products": {
+      "Siderlac": 2
+    }
+  },
+  {
+    "id": "Cognizine",
+    "reactants": {
+      "CarpoToxin": 1,
+      "Siderlac": 1,
+      "Acetone": 1
+    },
+    "products": {
+      "Cognizine": 1
+    }
+  },
+  {
+    "id": "Sigynate",
+    "reactants": {
+      "SodiumCarbonate": 1,
+      "SodiumHydroxide": 1,
+      "Kelotane": 1,
+      "Water": 1,
+      "Sugar": 1
+    },
+    "products": {
+      "Sigynate": 4
+    },
+    "minTemp": 370
+  },
+  {
+    "id": "Saline",
+    "reactants": {
+      "Water": 4,
+      "TableSalt": 1
+    },
+    "products": {
+      "Saline": 5
+    }
+  },
+  {
+    "id": "Lacerinol",
+    "reactants": {
+      "Bicaridine": 1,
+      "Benzene": 1
+    },
+    "products": {
+      "Lacerinol": 2
+    },
+    "minTemp": 335
+  },
+  {
+    "id": "Puncturase",
+    "reactants": {
+      "Bicaridine": 1,
+      "Hydroxide": 1
+    },
+    "products": {
+      "Puncturase": 2
+    },
+    "minTemp": 325
+  },
+  {
+    "id": "Bruizine",
+    "reactants": {
+      "Bicaridine": 1,
+      "Lithium": 0.9,
+      "Sugar": 1
+    },
+    "products": {
+      "Bruizine": 2
+    }
+  },
+  {
+    "id": "BicarLacerinol",
+    "reactants": {
+      "Lacerinol": 1,
+      "Bicaridine": 1
+    },
+    "products": {
+      "Razorium": 1
+    }
+  },
+  {
+    "id": "BicarPuncturase",
+    "reactants": {
+      "Puncturase": 1,
+      "Bicaridine": 1
+    },
+    "products": {
+      "Razorium": 1
+    }
+  },
+  {
+    "id": "BicarBruizine",
+    "reactants": {
+      "Bruizine": 1,
+      "Bicaridine": 1
+    },
+    "products": {
+      "Razorium": 1
+    }
+  },
+  {
+    "id": "BruizineLacerinol",
+    "reactants": {
+      "Lacerinol": 1,
+      "Bruizine": 1
+    },
+    "products": {
+      "Razorium": 1
+    }
+  },
+  {
+    "id": "BruizinePuncturase",
+    "reactants": {
+      "Puncturase": 1,
+      "Bruizine": 1
+    },
+    "products": {
+      "Razorium": 1
+    }
+  },
+  {
+    "id": "PuncturaseLacerinol",
+    "reactants": {
+      "Lacerinol": 1,
+      "Puncturase": 1
+    },
+    "products": {
+      "Razorium": 1
+    }
+  },
+  {
+    "id": "Diphenhydramine",
+    "reactants": {
+      "Diethylamine": 1,
+      "Oil": 1,
+      "TableSalt": 1,
+      "Carbon": 1,
+      "Ethanol": 1
+    },
+    "products": {
+      "Diphenhydramine": 3
+    },
+    "minTemp": 377.59
+  },
+  {
+    "id": "Pyrazine",
+    "reactants": {
+      "Leporazine": 1,
+      "Dermaline": 1,
+      "Carbon": 1
+    },
+    "products": {
+      "Pyrazine": 3
+    },
+    "minTemp": 540
+  },
+  {
+    "id": "Insuzine",
+    "reactants": {
+      "Leporazine": 1,
+      "Kelotane": 1,
+      "Silicon": 1
+    },
+    "products": {
+      "Insuzine": 3
+    },
+    "minTemp": 433
+  },
+  {
+    "id": "Opporozidone",
+    "reactants": {
+      "Cognizine": 1,
+      "Plasma": 2,
+      "Doxarubixadone": 1
+    },
+    "products": {
+      "Opporozidone": 3
+    },
+    "minTemp": 400
+  },
+  {
+    "id": "Arcryox",
+    "reactants": {
+      "Lithium": 1,
+      "Tricordrazine": 1,
+      "Cryoxadone": 1
+    },
+    "products": {
+      "Arcryox": 3
+    },
+    "minTemp": 370
+  },
+  {
+    "id": "Aloxadone",
+    "reactants": {
+      "Cryoxadone": 2,
+      "Aloe": 1,
+      "Leporazine": 2
+    },
+    "products": {
+      "Aloxadone": 4
+    }
+  },
+  {
+    "id": "Psicodine",
+    "reactants": {
+      "Mannitol": 2,
+      "Impedrezene": 1,
+      "Water": 2
+    },
+    "products": {
+      "Psicodine": 4
+    }
+  },
+  {
+    "id": "Lipolicide",
+    "reactants": {
+      "Ephedrine": 1,
+      "Diethylamine": 1,
+      "Mercury": 1
+    },
+    "products": {
+      "Lipolicide": 3
+    }
+  },
+  {
+    "id": "Happiness",
+    "reactants": {
+      "Laughter": 2,
+      "Epinephrine": 1,
+      "Ethanol": 1,
+      "Plasma": 5
+    },
+    "products": {
+      "Happiness": 4,
+      "Plasma": 5
+    }
+  },
+  {
+    "id": "PotassiumIodide",
+    "reactants": {
+      "Potassium": 1,
+      "Iodine": 1
+    },
+    "products": {
+      "PotassiumIodide": 2
+    }
+  },
+  {
+    "id": "Haloperidol",
+    "reactants": {
+      "Aluminium": 1,
+      "Chlorine": 1,
+      "Fluorine": 1,
+      "Oil": 1,
+      "PotassiumIodide": 1
+    },
+    "products": {
+      "Haloperidol": 5
+    }
+  },
+  {
+    "id": "Heparin",
+    "reactants": {
+      "SulfuricAcid": 1,
+      "Nitrogen": 1,
+      "Sodium": 1
+    },
+    "products": {
+      "Heparin": 2
+    }
+  },
+  {
+    "id": "Hemorrhinol",
+    "reactants": {
+      "Heparin": 2,
+      "Razorium": 2,
+      "Plasma": 1
+    },
+    "products": {
+      "Hemorrhinol": 2
+    }
+  },
+  {
+    "id": "Napalm",
+    "reactants": {
+      "Oil": 1,
+      "WeldingFuel": 1,
+      "Ethanol": 1
+    },
+    "products": {
+      "Napalm": 3
+    }
+  },
+  {
+    "id": "Phlogiston",
+    "reactants": {
+      "Phosphorus": 1,
+      "SulfuricAcid": 1,
+      "Plasma": 1
+    },
+    "products": {
+      "Phlogiston": 3
+    }
+  },
+  {
+    "id": "ChlorineTrifluoride",
+    "reactants": {
+      "Chlorine": 1,
+      "Fluorine": 3
+    },
+    "products": {
+      "ChlorineTrifluoride": 4
+    },
+    "minTemp": 370
+  },
+  {
+    "id": "Ash",
+    "reactants": {
+      "Oil": 1
+    },
+    "products": {
+      "Ash": 1
+    },
+    "minTemp": 520
+  },
+  {
+    "id": "WeldingFuelBreakdown",
+    "reactants": {
+      "WeldingFuel": 10
+    },
+    "products": {
+      "Ethanol": 5,
+      "Hydrogen": 3,
+      "Sulfur": 2
+    }
+  },
+  {
+    "id": "ProteinCooking",
+    "reactants": {
+      "UncookedAnimalProteins": 0.5
+    },
+    "products": {
+      "Protein": 0.5
+    },
+    "minTemp": 347
+  },
+  {
+    "id": "EggCooking",
+    "reactants": {
+      "Egg": 0.5
+    },
+    "products": {
+      "EggCooked": 0.5
+    },
+    "minTemp": 344
+  },
+  {
+    "id": "SapBoiling",
+    "reactants": {
+      "Sap": 1
+    },
+    "products": {
+      "Syrup": 0.5
+    },
+    "minTemp": 377
+  },
+  {
+    "id": "BloodToWine",
+    "reactants": {
+      "Blood": 1
+    },
+    "products": {
+      "Wine": 1
+    }
+  },
+  {
+    "id": "WatertoHolyWater",
+    "reactants": {
+      "Water": 1
+    },
+    "products": {
+      "Holywater": 1
+    }
+  },
+  {
+    "id": "CreateSoapRegular",
+    "reactants": {
+      "Oil": 10,
+      "Lye": 15,
+      "TableSalt": 5
+    },
+    "products": {},
+    "minTemp": 373
+  },
+  {
+    "id": "CreateSoapNT",
+    "reactants": {
+      "Oil": 15,
+      "Lye": 20,
+      "TableSalt": 5,
+      "Plasma": 5
+    },
+    "products": {},
+    "minTemp": 373
+  },
+  {
+    "id": "CreateSoapDeluxe",
+    "reactants": {
+      "Oil": 15,
+      "Lye": 20,
+      "TableSalt": 5,
+      "JuiceBerry": 5
+    },
+    "products": {},
+    "minTemp": 373
+  },
+  {
+    "id": "CreateSoapBlood",
+    "reactants": {
+      "Fat": 10,
+      "Lye": 20,
+      "TableSalt": 5,
+      "Blood": 10
+    },
+    "products": {},
+    "minTemp": 373
+  },
+  {
+    "id": "CreateSoapSyndie",
+    "reactants": {
+      "Oil": 15,
+      "Lye": 20,
+      "TableSalt": 5,
+      "Stimulants": 5
+    },
+    "products": {},
+    "minTemp": 373
+  },
+  {
+    "id": "CreateSoapOmega",
+    "reactants": {
+      "Oil": 5,
+      "Fat": 5,
+      "Lye": 10,
+      "TableSalt": 5,
+      "Honk": 10,
+      "SpaceLube": 5,
+      "SpaceDrugs": 3,
+      "THC": 2,
+      "Bananadine": 2,
+      "Omnizine": 2,
+      "Amatoxin": 1
+    },
+    "products": {},
+    "minTemp": 373
+  }
+]
